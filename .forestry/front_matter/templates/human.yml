@@ -2,7 +2,7 @@
 pages:
 - volunteer.md
 - volunteer.es.md
-hide_body: false
+hide_body: true
 fields:
 - name: title
   label: Title
