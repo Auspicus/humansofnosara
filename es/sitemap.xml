@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.humansofnosara.org/es/human/david/</loc>
-    <lastmod>2017-09-12T13:25:52-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.humansofnosara.org/human/david/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.humansofnosara.org/es/human/david/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.humansofnosara.org/es/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
@@ -59,22 +44,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.humansofnosara.org/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.humansofnosara.org/es/human/</loc>
-    <lastmod>2017-09-12T13:25:52-06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.humansofnosara.org/human/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.humansofnosara.org/es/human/"
                 />
   </url>
   
