@@ -34,3 +34,10 @@ fields:
   - type: text
     name: nickname
     label: Nickname
+- type: field_group
+  name: image
+  label: Image
+  fields:
+  - type: text
+    name: teaser_url
+    label: Teaser URL
