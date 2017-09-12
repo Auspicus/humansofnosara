@@ -28,3 +28,6 @@ fields:
   - type: text
     name: last_name
     label: Last Name
+  - type: text
+    name: nickname
+    label: Nickname
