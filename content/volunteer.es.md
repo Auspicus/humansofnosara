@@ -1,4 +1,5 @@
 {
-  "date": "2017-09-12T16:15:16+00:00",
-  "title": "Sea un volunatario"
+  "date": "2017-09-12T16:15:16Z",
+  "title": "Sea un volunatario",
+  "type": "page"
 }
