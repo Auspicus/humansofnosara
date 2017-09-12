@@ -1,7 +1,8 @@
 {
-  "defaultContentLanguage": "en",
-  "title": "Humans of Nosara",
   "baseURL": "https://www.humansofnosara.org/",
+  "title": "Humans of Nosara",
+  "theme": "humans-of-nosara",
+  "metaDataFormat": "json",
   "Languages": {
     "en": {
       "weight": 1
