@@ -13,6 +13,9 @@ fields:
   name: date
   label: Date
   default: Invalid date
+- type: textarea
+  name: summary
+  label: Summary
 - name: type
   label: Type
   type: text
