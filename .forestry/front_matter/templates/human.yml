@@ -41,3 +41,6 @@ fields:
   - type: text
     name: teaser_url
     label: Teaser URL
+  - type: text
+    name: full_image_url
+    label: Full Image URL
