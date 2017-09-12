@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humen on Humans of Nosara</title>
+    <link>https://www.humansofnosara.org/es/human/</link>
+    <description>Recent content in Humen on Humans of Nosara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Sep 2017 16:31:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.humansofnosara.org/es/human/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gustavo Miranda Cambronero Es</title>
+      <link>https://www.humansofnosara.org/es/human/gustavo-miranda-cambronero/</link>
+      <pubDate>Tue, 12 Sep 2017 16:31:08 +0000</pubDate>
+      
+      <guid>https://www.humansofnosara.org/es/human/gustavo-miranda-cambronero/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
