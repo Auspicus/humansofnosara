@@ -1,0 +1,141 @@
+.article-detail {
+  position: relative;
+  max-width: 960px;
+  margin: 0 auto;
+
+  @media (min-width: 961px) {
+    margin: 2rem auto 0;
+  }
+}
+
+.article-detail__shadow-wrapper {
+  position: relative;
+
+  &:before {
+    content: "";
+    position: absolute;
+    bottom: 5px;
+    width: 60%;
+    height: 0px;
+    background: black;
+    left: 0px;
+    box-shadow: 7px -3px 24px 5px rgba(0, 0, 0, 0.8);
+    transform: rotate(-2deg);
+  }
+}
+
+.article-detail__image-wrapper {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.article-detail__image {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.article-detail__comment {
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: top;
+  border-radius: 4px;
+  font-size: 13px;
+  height: 28px;
+  line-height: 28px;
+  font-weight: bold;
+  padding: 0 6px;
+  background: #4267b2;
+  border: 1px solid #4267b2;
+  color: #fff;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  -webkit-user-select: none;
+  white-space: nowrap;
+
+  &:hover {
+    background: #365899;
+    border: 1px solid #365899;
+  }
+}
+
+.article-detail__meta {
+  max-width: $bp-ar;
+  margin: 0 1rem;
+
+  @media (min-width: $bp-sm) {
+    margin: 0 2rem;
+  }
+
+  @media (min-width: 720px) {
+    margin: 0 auto;
+  }
+}
+
+.article-detail__title {
+  font-size: 1.5rem;
+  color: $black;
+
+  @media (min-width: $bp-md) {
+    font-size: 2rem;
+  }
+}
+
+.article-detail__body {
+  p {
+    font-family: 'Mukta';
+    font-size: 1.05rem;
+    line-height: 1.5;
+    letter-spacing: .05rem;
+    margin: 1rem;
+
+    @media (min-width: $bp-sm) {
+      margin: 1rem 2rem;
+    }
+
+    @media (min-width: $bp-md) {
+      font-size: 1.25rem;
+      line-height: 1.75;
+      max-width: $bp-ar;
+      margin: 1rem auto;
+    }
+  }
+
+  img {
+    display: block;
+    margin: .5rem auto;
+    width: 100%;
+
+    @media (min-width: $bp-sm) {
+      margin: 2rem auto;
+    }
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  .article-detail__small-text {
+    font-size: .9rem;
+    margin: 1rem;
+
+    @media (min-width: $bp-sm) {
+      margin: 1rem 2rem;
+    }
+
+    @media (min-width: $bp-md) {
+      font-size: 1rem;
+      max-width: $bp-ar;
+      margin: 1rem auto;
+    }
+  }
+}
+
+.article-detail__comments {
+  padding: 1rem;
+  max-width: 640px;
+  margin: 0 auto;
+}
