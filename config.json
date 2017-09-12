@@ -1,3 +1,13 @@
 {
+  "defaultContentLanguage": "en",
+  "title": "Humans of Nosara",
+  "Languages": {
+    "en": {
+      "weight": 1
+    },
+    "es": {
+      "weight": 2
+    }
+  },
   "baseURL": "https://www.humansofnosara.org/"
 }
