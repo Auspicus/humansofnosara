@@ -18,3 +18,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: field_group
+  name: name
+  label: Name
+  fields:
+  - type: text
+    label: First Name
+    name: first_name
