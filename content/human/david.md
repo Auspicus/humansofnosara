@@ -1,5 +1,5 @@
 ---
-title: "Davíd"
-date: "2017-09-12T13:25:47-06:00"
-draft: false
+title: Davíd
+date: 2017-09-12 13:25:47 -0600
+
 ---
