@@ -25,3 +25,6 @@ fields:
   - type: text
     label: First Name
     name: first_name
+  - type: text
+    name: last_name
+    label: Last Name
