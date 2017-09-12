@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans of Nosara</title>
+    <link>https://www.humansofnosara.org/es/</link>
+    <description>Recent content on Humans of Nosara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.humansofnosara.org/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paolá (Pao) Barrera</title>
+      <link>https://www.humansofnosara.org/es/human/paola-pao-barrera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.humansofnosara.org/es/human/paola-pao-barrera/</guid>
+      <description> Heading Subheading </description>
+    </item>
+    
+  </channel>
+</rss>
