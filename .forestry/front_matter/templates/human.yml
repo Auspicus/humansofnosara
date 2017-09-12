@@ -6,11 +6,10 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
+- type: datetime
+  name: date
   label: Date
-  type: field_group
-  hidden: false
-  default: {}
+  default: Invalid date
 - name: type
   label: Type
   type: text
