@@ -6,6 +6,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: date
+  label: Date
+  type: field_group
+  hidden: false
+  default: {}
 - name: type
   label: Type
   type: text
