@@ -1,7 +1,6 @@
 ---
-{
-  "title": "Paolá (Pao) Barrera"
-}
+title: Paolá (Pao) Barrera
+
 ---
 # Heading
 ## Subheading
