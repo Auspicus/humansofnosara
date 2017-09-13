@@ -1,10 +1,6 @@
-{{ partial "header/header.html" . }}
-<section id="main">
+{{ partial "header.html" . }}
+<main id="main" role="main">
   <h1 id="title">{{ .Title }}</h1>
-  <div>
-    <article id="content">
-      {{ .Content }}
-    </article>
-  </div>
-</section>
-{{ partial "footer/footer.html" . }}
+  {{ partial "article-listing/article-listing.html" . }}
+</main>
+{{ partial "footer.html" . }}

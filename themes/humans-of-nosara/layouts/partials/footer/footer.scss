@@ -1,0 +1,18 @@
+.footer {
+  height: 100px;
+  background: $black;
+  margin: 2rem 0 0;
+}
+
+.footer__copyright {
+  line-height: 100px;
+  color: $white;
+  font-size: .9rem;
+  text-align: center;
+  
+  @media(min-width: $bp-md) {
+    text-align: left;
+    font-size: 1rem;
+    margin: 0 2rem;
+  }
+}

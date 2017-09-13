@@ -13,6 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "build": "cd themes/humans-of-nosara && gulp && cd ../../ && hugo",
     "start": "serve public",
     "watch": "hugo -w & serve public",
     "test": "echo \"Error: no test specified\" && exit 1"

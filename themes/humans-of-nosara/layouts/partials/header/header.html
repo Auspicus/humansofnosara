@@ -1,15 +1,12 @@
-<html lang="{{ .Site.Language.Lang }}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{ .Title }}</title>
-  <link rel="stylesheet" href="/css/styles.css">
-  <link rel="preload"
-    href="https://fonts.googleapis.com/css?family=Mukta:400|Montserrat:400,700"
-    as="style"
-    onload="this.rel='stylesheet'">
-  {{ partial "load-css/load-css.html" }}
-  {{ partial "browser-detect/browser-detect.html" }}
-</head>
-<body>
+<header role="banner" class="header">
+  <nav class="header__nav">
+    <a class="header__nav-item" aria-label="Home" href='{{ "/" | relLangURL }}'>
+      <img class="header__logo" src="/favicon.png" alt="">
+    </a>
+    <div class="header__nav-items">
+      <!-- language toggle -->
+      <!-- about page -->
+      <!-- donate page -->
+    </div>
+  </nav>
+</header>

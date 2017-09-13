@@ -1,0 +1,6 @@
+<section class="article-listing">
+  {{ range where (where .Site.Pages "Section" "human") ".Kind" "eq" "page" }}
+    {{ .Render "teaser" }}
+  {{ end }}
+</section>
+  

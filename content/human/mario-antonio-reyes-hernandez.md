@@ -1,7 +1,7 @@
 {
-  "title": "{{ replace .TranslationBaseName "-" " " | title }}",
+  "title": "Mario Antonio Reyes Hernandez",
   "summary": "",
-  "date": "{{ .Date }}",
+  "date": "2017-09-13T17:33:54-06:00",
   "image": {
     "teaser_url": "",
     "full_image_url": "",

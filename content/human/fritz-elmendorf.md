@@ -1,7 +1,7 @@
 {
-  "title": "{{ replace .TranslationBaseName "-" " " | title }}",
+  "title": "Fritz Elmendorf",
   "summary": "",
-  "date": "{{ .Date }}",
+  "date": "2017-09-13T17:33:17-06:00",
   "image": {
     "teaser_url": "",
     "full_image_url": "",

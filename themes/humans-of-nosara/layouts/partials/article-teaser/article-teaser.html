@@ -1,0 +1,16 @@
+<article class="article-teaser">
+  <a href="{{ .URL }}">
+    <div class="article-teaser__content">
+      <div style='padding-bottom: {{ .Params.image.ratio }};'
+        class="article-teaser__image-wrapper">
+        <img class="article-teaser__image" src='{{ .Params.image.teaser_url }}' alt="">
+      </div>
+      <div class="article-teaser__summary">
+        {{ .Params.summary }}...
+        <span class="article-teaser__read-more">
+          {{ i18n "readMore" }}
+        </span>
+      </div>
+    </div>
+  </a>
+</article>
