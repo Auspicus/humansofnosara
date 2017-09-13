@@ -1,7 +1,7 @@
 {
-  "title": "{{ title }}",
+  "title": "",
   "summary": "",
-  "date": "{{ .Date }}",
+  "date": "",
   "image": {
     "teaser_url": "",
     "full_image_url": "",
