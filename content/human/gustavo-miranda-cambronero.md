@@ -1,8 +1,9 @@
 {
   "date": "2017-09-12T16:30:27+00:00",
   "image": {
-    "teaser_url": "",
-    "full_image_url": ""
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1501437453/Gustavo%20Cambronero/Tao-Portrait_r8nj39.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1501437453/Gustavo%20Cambronero/Tao-Portrait_r8nj39.jpg",
+    "ratio": "66%"
   },
   "name": {
     "first_name": "",
