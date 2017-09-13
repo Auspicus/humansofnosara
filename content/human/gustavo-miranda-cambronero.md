@@ -1,5 +1,5 @@
 {
-  "date": "2017-09-12T16:30:27+00:00",
+  "date": "2017-09-12T16:30:27Z",
   "image": {
     "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1501437453/Gustavo%20Cambronero/Tao-Portrait_r8nj39.jpg",
     "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1501437453/Gustavo%20Cambronero/Tao-Portrait_r8nj39.jpg",
