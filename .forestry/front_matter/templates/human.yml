@@ -1,7 +1,7 @@
 ---
 pages:
-- volunteer.es.md
 - volunteer.md
+- volunteer.es.md
 hide_body: false
 fields:
 - name: title
@@ -12,7 +12,7 @@ fields:
 - type: datetime
   name: date
   label: Date
-  default: 2017-09-12 19:29:05 -0600
+  default: 2017-09-13 01:29:05 +0000
 - type: textarea
   name: summary
   label: Summary
