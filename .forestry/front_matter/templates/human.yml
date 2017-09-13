@@ -44,3 +44,7 @@ fields:
   - type: text
     name: full_image_url
     label: Full Image URL
+  - type: text
+    name: ratio
+    label: Ratio
+    description: Percentage ratio of height to width (eg. 66%)
