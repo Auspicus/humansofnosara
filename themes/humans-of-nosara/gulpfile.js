@@ -1,20 +1,16 @@
 var gulp = require('gulp');
-
-var postcss = require('gulp-postcss');
-var atImporter = require('postcss-easy-import');
-var nesting = require('postcss-nesting');
-var autoprefixer = require('autoprefixer');
-var cssnano = require('cssnano');
+var sassGlob = require('gulp-sass-glob');
+var sass = require('gulp-sass');
+var autoprefixer = require('gulp-autoprefixer');
+var cleanCSS = require('gulp-clean-css');
 
 gulp.task('styles', function () {
   gulp
-  .src('./css/styles.css')
-  .pipe(postcss([
-    atImporter(),
-    nesting(),
-    autoprefixer({ browsers: ['last 3 versions'] }),
-    cssnano()
-  ]))
+  .src('./scss/styles.scss')
+  .pipe(sassGlob())
+  .pipe(sass().on('error', sass.logError))
+  .pipe(autoprefixer(['last 3 versions']))
+  .pipe(cleanCSS())
   .pipe(gulp.dest('./static/css'));
 });
 

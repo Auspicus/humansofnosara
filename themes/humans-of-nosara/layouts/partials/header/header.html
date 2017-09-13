@@ -5,5 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ .Title }}</title>
   <link rel="stylesheet" href="/css/styles.css">
+  <link rel="preload"
+    href="https://fonts.googleapis.com/css?family=Mukta:400|Montserrat:400,700"
+    as="style"
+    onload="this.rel='stylesheet'">
+  {{ partial "load-css/load-css.html" }}
+  {{ partial "browser-detect/browser-detect.html" }}
 </head>
 <body>

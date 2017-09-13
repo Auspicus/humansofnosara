@@ -1,11 +1,11 @@
 <article class="article-detail">
   <div class="article-detail__shadow-wrapper">
-    <div style="padding-bottom: 66%;
-      background: #ccc;"
-      class="article-detail__image-wrapper">
-      <img src="{{ .Data.image.teaser_url }}"
+    <div 
+    style='padding-bottom: {{ .Param "image.ratio" }};'
+    class="article-detail__image-wrapper">
+      <img src='{{ .Param "image.teaser_url" }}'
       sizes="100vw"
-      srcset="{{ .Data.image.full_image_url }} 1000w, {{ .Data.image.teaser_url }} 720w" alt="" class="article-detail__image">
+      srcset='{{ .Param "image.full_image_url" }} 1000w, {{ .Param "image.teaser_url" }} 720w' alt="" class="article-detail__image">
     </div>
   </div>
   <div class="article-detail__meta">
@@ -14,11 +14,11 @@
       <a class="article-detail__comment" href="#comment">
         Comment
       </a>
-      <div class="fb-like" data-href="https://www.humansofnosara.org/human/{{ .URL }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+      <div class="fb-like" data-href="{{ .Site.BaseURL }}{{ .URL }}" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
     </div>
   </div>
   <div class="article-detail__body">{{ .Content }}</div>
   <div class="article-detail__comments">
-    <div id="comment" class="fb-comments" data-href="https://www.humansofnosara.org/human/{{ .URL }}" data-width="100%" data-numposts="5"></div>
+    <div id="comment" class="fb-comments" data-href="{{ .Site.BaseURL }}{{ .URL }}" data-width="100%" data-numposts="5"></div>
   </div>
 </article>
