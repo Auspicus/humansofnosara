@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://www.humansofnosara.org/es/donar/</loc>
+    <lastmod>2017-09-12T13:25:52-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/donate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/donar/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.humansofnosara.org/es/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
@@ -63,6 +78,21 @@
   </url>
   
   <url>
+    <loc>https://www.humansofnosara.org/es/sobre/</loc>
+    <lastmod>2017-09-12T13:25:52-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/sobre/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.humansofnosara.org/es/human/gustavo-miranda-cambronero/</loc>
     <lastmod>2017-09-12T16:31:08+00:00</lastmod>
     <xhtml:link
@@ -74,21 +104,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.humansofnosara.org/es/human/gustavo-miranda-cambronero/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.humansofnosara.org/es/volunteer/</loc>
-    <lastmod>2017-09-12T16:15:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.humansofnosara.org/volunteer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.humansofnosara.org/es/volunteer/"
                 />
   </url>
   
