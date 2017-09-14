@@ -1,17 +1,17 @@
 {
-  "title": "Mario Antonio Reyes Hernandez",
-  "summary": "He vivido en Nosara toda mi vida, me encanta estar rodeado de las personas del pueblo que conozco desde niño y estar en contacto con gente nueva también aprendiendo de ellos. Un grupo de la zona que me gustaría impactar positivamente son los niños y niñas con altos índices de pobreza, creo que la idea de un centro recreativo que les abra las puertas hacia actividades distintas a las que conocen podría contribuir a que se mantengan alejados de las drogas y otras problemáticas sociales",
   "date": "2017-09-13T17:33:59-06:00",
   "image": {
-    "teaser_url": "",
-    "full_image_url": "",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1503813551/Mario%20Hernandez/Mario-Portrait_ysjoyq.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1503813551/Mario%20Hernandez/Mario-Portrait_ysjoyq.jpg",
     "ratio": "66.66%"
   },
   "name": {
     "first_name": "",
     "last_name": "",
     "nickname": ""
-  }
+  },
+  "summary": "He vivido en Nosara toda mi vida, me encanta estar rodeado de las personas del pueblo que conozco desde niño y estar en contacto con gente nueva también aprendiendo de ellos. Un grupo de la zona que me gustaría impactar positivamente son los niños y niñas con altos índices de pobreza, creo que la idea de un centro recreativo que les abra las puertas hacia actividades distintas a las que conocen podría contribuir a que se mantengan alejados de las drogas y otras problemáticas sociales",
+  "title": "Mario Antonio Reyes Hernandez"
 }
 <p>
     He vivido en Nosara toda mi vida, me encanta estar rodeado de las personas del pueblo que conozco desde niño y estar en contacto con gente nueva también aprendiendo de ellos. Un grupo de la zona que me gustaría impactar positivamente son los niños y niñas con altos índices de pobreza, creo que la idea de un centro recreativo que les abra las puertas hacia actividades distintas a las que conocen podría contribuir a que se mantengan alejados de las drogas y otras problemáticas sociales.
