@@ -1,17 +1,17 @@
 {
-  "title": "Mario Antonio Reyes Hernandez",
-  "summary": "I have lived in Nosara all my life. I love to be surrounded by all the people from town who I have known since I was a child whilst also being in touch with the new people and being able to learn from them. A group of people who I think should receive some attention are the children who live in the poorer areas of town. I would love to make a positive improvement in their lives and I believe the idea of a recreational center which opens doors to better opportunities is a good start",
   "date": "2017-09-13T17:33:54-06:00",
   "image": {
-    "teaser_url": "",
-    "full_image_url": "",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1503813551/Mario%20Hernandez/Mario-Portrait_ysjoyq.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1503813551/Mario%20Hernandez/Mario-Portrait_ysjoyq.jpg",
     "ratio": "66.66%"
   },
   "name": {
     "first_name": "",
     "last_name": "",
     "nickname": ""
-  }
+  },
+  "summary": "I have lived in Nosara all my life. I love to be surrounded by all the people from town who I have known since I was a child whilst also being in touch with the new people and being able to learn from them. A group of people who I think should receive some attention are the children who live in the poorer areas of town. I would love to make a positive improvement in their lives and I believe the idea of a recreational center which opens doors to better opportunities is a good start",
+  "title": "Mario Antonio Reyes Hernandez"
 }
 <p>
     I have lived in Nosara all my life. I love to be surrounded by all the people from town who I have known since I was a child whilst also being in touch with the new people and being able to learn from them. A group of people who I think should receive some attention are the children who live in the poorer areas of town. I would love to make a positive improvement in their lives and I believe the idea of a recreational center which opens doors to better opportunities is a good start. It's a good way to keep the youth away from drugs and other dangerous areas of society.
