@@ -1,6 +1,6 @@
-"title": "",
+"title": "{{ replace .TranslationBaseName "-" " " | title }}",
 "summary": "",
-"date": "",
+"date": "{{ .Date }}",
 "image": {
   "teaser_url": "",
   "full_image_url": "",
