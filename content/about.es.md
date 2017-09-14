@@ -4,8 +4,6 @@
   "slug": "sobre",
   "type": "page"
 }
-
-
 # Acerca de nosotros
       
 
@@ -17,7 +15,7 @@ Somos un grupo de locales dedicados a mejorar la comunidad. Todo el trabajo que 
 
 Estamos siempre en busca de ayuda para el proyecto así que no dude en contactarnos a contáctenos si le gustaría donar un poco de su tiempo a la causa.
 
-**humansofnosara@gmail.com** or **+506 84614297**
+**humansofnosara@gmail.com** o **+506 84614297**
       
 
 ## Qué hacemos
