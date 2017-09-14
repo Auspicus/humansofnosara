@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "Back home I was a journalist. I started in Kentucky but after a couple of years landed a job in DC working for a congressman. After that, I did public relations and writing for trade associations for many years. My girlfriend asked me twenty years ago to come to Nosara for a yoga trip and I bought some land on my first visit. This made it possible for me to setup a home and for my first three years here I was barbecuing with the community and writing articles for The Voice of Nosara (now known as The Voice of Guanacaste)",
-  "title": "Fritz Elmendorf"
+  "title": "Fritz Elmendorf, Organico"
 }
 <p>
       Back home I was a journalist. I started in Kentucky but after a couple of years landed a job in DC working for a congressman. After that, I did public relations and writing for trade associations for many years. My girlfriend asked me twenty years ago to come to Nosara for a yoga trip and I bought some land on my first visit. This made it possible for me to setup a home and for my first three years here I was barbecuing with the community and writing articles for <a href='http://www.vozdeguanacaste.com/en'>The Voice of Nosara</a> (now known as The Voice of Guanacaste).
