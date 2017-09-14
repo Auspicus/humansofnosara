@@ -1,17 +1,17 @@
 {
-  "title": "Fritz Elmendorf",
-  "summary": "Back home I was a journalist. I started in Kentucky but after a couple of years landed a job in DC working for a congressman. After that, I did public relations and writing for trade associations for many years. My girlfriend asked me twenty years ago to come to Nosara for a yoga trip and I bought some land on my first visit. This made it possible for me to setup a home and for my first three years here I was barbecuing with the community and writing articles for The Voice of Nosara (now known as The Voice of Guanacaste)",
   "date": "2017-09-13T17:33:17-06:00",
   "image": {
-    "teaser_url": "",
-    "full_image_url": "",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1503171710/Fritz%20Elmendorf/Fritz-Portait_wsluvw.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1503171710/Fritz%20Elmendorf/Fritz-Portait_wsluvw.jpg",
     "ratio": "66.66%"
   },
   "name": {
     "first_name": "",
     "last_name": "",
     "nickname": ""
-  }
+  },
+  "summary": "Back home I was a journalist. I started in Kentucky but after a couple of years landed a job in DC working for a congressman. After that, I did public relations and writing for trade associations for many years. My girlfriend asked me twenty years ago to come to Nosara for a yoga trip and I bought some land on my first visit. This made it possible for me to setup a home and for my first three years here I was barbecuing with the community and writing articles for The Voice of Nosara (now known as The Voice of Guanacaste)",
+  "title": "Fritz Elmendorf"
 }
 <p>
       Back home I was a journalist. I started in Kentucky but after a couple of years landed a job in DC working for a congressman. After that, I did public relations and writing for trade associations for many years. My girlfriend asked me twenty years ago to come to Nosara for a yoga trip and I bought some land on my first visit. This made it possible for me to setup a home and for my first three years here I was barbecuing with the community and writing articles for <a href='http://www.vozdeguanacaste.com/en'>The Voice of Nosara</a> (now known as The Voice of Guanacaste).
