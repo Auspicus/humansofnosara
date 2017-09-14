@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "I was born on the north coast of Peru. I grew up in a place close to the sea and since I was a little girl I’ve had a passion for the surf like my family, although I didn’t learn how to surf until I came to Costa Rica when I was 16. After that I travelled to many different parts of the country and 6 years ago I found Nosara, the place where I came to get my yoga instructor certification. When I finished, I started a yoga program with the local schools without lucrative intentions for about three months. While I have always liked children, after this, I knew that working with them was something I was passionate about",
-  "title": "Paola Pao Barrera"
+  "title": "Paola Pao Barrera, Nosara Kids Camp"
 }
 <p>
       I was born on the north coast of Peru. I grew up in a place close to the sea and since I was a little girl I’ve had a passion for the surf like my family, although I didn’t learn how to surf until I came to Costa Rica when I was 16. After that I travelled to many different parts of the country and 6 years ago I found Nosara, the place where I came to get my yoga instructor certification. When I finished, I started a yoga program with the local schools without lucrative intentions for about three months.
