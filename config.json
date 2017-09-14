@@ -6,6 +6,7 @@
   "enableMissingTranslationPlaceholders": true,
   "languages": {
     "en": {
+      "weight": 1,
       "menu": {
         "main": [
           {
@@ -31,10 +32,10 @@
             "weight": "0"
           }
         ]
-      },
-      "weight": 1
+      }
     },
     "es": {
+      "weight": 2,
       "menu": {
         "main": [
           {
@@ -60,8 +61,7 @@
             "weight": "0"
           }
         ]
-      },
-      "weight": 2
+      }
     }
   }
 }
