@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.humansofnosara.org/human/mario-antonio-reyes-hernandez/</loc>
+    <lastmod>2017-09-13T17:33:54-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/human/mario-antonio-reyes-hernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/human/mario-antonio-reyes-hernandez/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.humansofnosara.org/human/fritz-elmendorf/</loc>
+    <lastmod>2017-09-13T17:33:17-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/human/fritz-elmendorf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/human/fritz-elmendorf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.humansofnosara.org/human/paola-pao-barrera/</loc>
+    <lastmod>2017-09-12T20:00:38-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/human/paola-pao-barrera/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/human/paola-pao-barrera/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.humansofnosara.org/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
@@ -64,7 +109,7 @@
   
   <url>
     <loc>https://www.humansofnosara.org/human/</loc>
-    <lastmod>2017-09-12T16:30:27+00:00</lastmod>
+    <lastmod>2017-09-13T17:33:54-06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
