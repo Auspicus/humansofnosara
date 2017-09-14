@@ -2,5 +2,13 @@
   {
     "id": "readMore",
     "translation": "Ver más"
+  },
+  {
+    "id": "en",
+    "translation": "English"
+  },
+  {
+    "id": "es",
+    "translation": "Español"
   }
 ]

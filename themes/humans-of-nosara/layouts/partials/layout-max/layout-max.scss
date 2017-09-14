@@ -1,0 +1,31 @@
+.layout-max {
+  max-width: $bp-md;
+  margin: 0 1rem;
+  position: relative;
+
+  ul {
+    padding-left: 1.25rem;
+  }
+
+  li {
+    margin-bottom: .5rem;
+  }
+
+  a {
+    text-decoration: underline;
+    color: $dark-grey;
+
+    &:hover {
+      color: $black;
+    }
+  }
+
+  p {
+    line-height: 1.6;
+    letter-spacing: .02rem;
+  }
+
+  @media (min-width: 760px) {
+    margin: 0 auto;
+  }
+}

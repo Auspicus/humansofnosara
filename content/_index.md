@@ -1,6 +1,5 @@
----
-title: Humans of Nosara
-date: 2017-09-12 13:25:52 -0600
-type: page
-
----
+{
+  "date": "2017-09-12 13:25:52 -0600",
+  "title": "Humans of Nosara",
+  "type": "page"
+}

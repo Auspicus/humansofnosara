@@ -3,7 +3,6 @@
   "title": "Humans of Nosara",
   "theme": "humans-of-nosara",
   "metaDataFormat": "json",
-  "enableMissingTranslationPlaceholders": true,
   "languages": {
     "en": {
       "weight": 1,
@@ -19,13 +18,6 @@
             "name": "Donate",
             "weight": "2"
           }
-        ],
-        "language": [
-          {
-            "url": "/es/",
-            "name": "Español",
-            "weight": "0"
-          }
         ]
       }
     },
@@ -34,21 +26,14 @@
       "menu": {
         "main": [
           {
-            "url": "/sobre",
+            "url": "/es/sobre",
             "name": "Sobre",
             "weight": "1"
           },
           {
-            "url": "/donar",
+            "url": "/es/donar",
             "name": "Donar",
             "weight": "2"
-          }
-        ],
-        "language": [
-          {
-            "url": "/",
-            "name": "English",
-            "weight": "0"
           }
         ]
       }

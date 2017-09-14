@@ -7,8 +7,8 @@
       {{ range .Site.Menus.main }}
         <a class="header__nav-item" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
-      {{ range .Site.Menus.language }}
-        <a class="header__language" href="{{ .URL }}">{{ .Name }}</a>
+      {{ range .Translations }}
+        <a class="header__language" href="{{ .URL }}">{{ i18n .Lang }}</a>
       {{ end }}
     </div>
   </nav>
