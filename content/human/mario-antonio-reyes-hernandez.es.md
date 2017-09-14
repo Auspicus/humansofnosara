@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "He vivido en Nosara toda mi vida, me encanta estar rodeado de las personas del pueblo que conozco desde niño y estar en contacto con gente nueva también aprendiendo de ellos. Un grupo de la zona que me gustaría impactar positivamente son los niños y niñas con altos índices de pobreza, creo que la idea de un centro recreativo que les abra las puertas hacia actividades distintas a las que conocen podría contribuir a que se mantengan alejados de las drogas y otras problemáticas sociales",
-  "title": "Mario Antonio Reyes Hernandez"
+  "title": "Mario Antonio Reyes Hernandez, Mario's chinamito"
 }
 <p>
     He vivido en Nosara toda mi vida, me encanta estar rodeado de las personas del pueblo que conozco desde niño y estar en contacto con gente nueva también aprendiendo de ellos. Un grupo de la zona que me gustaría impactar positivamente son los niños y niñas con altos índices de pobreza, creo que la idea de un centro recreativo que les abra las puertas hacia actividades distintas a las que conocen podría contribuir a que se mantengan alejados de las drogas y otras problemáticas sociales.
