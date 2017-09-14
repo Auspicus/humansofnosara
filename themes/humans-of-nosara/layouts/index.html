@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <main id="main" role="main">
-  <h1 id="title">{{ .Title }}</h1>
+  {{ partial "feature-hero/feature-hero.html" . }}
   {{ partial "article-listing/article-listing.html" . }}
 </main>
 {{ partial "footer.html" . }}

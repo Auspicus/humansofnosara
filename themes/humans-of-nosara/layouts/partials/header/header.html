@@ -4,9 +4,12 @@
       <img class="header__logo" src="/favicon.png" alt="">
     </a>
     <div class="header__nav-items">
-      <!-- language toggle -->
-      <!-- about page -->
-      <!-- donate page -->
+      {{ range .Site.Menus.main }}
+        <a class="header__nav-item" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ range .Site.Menus.language }}
+        <a class="header__language" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
     </div>
   </nav>
 </header>

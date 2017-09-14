@@ -1,0 +1,23 @@
+.hero {
+  text-align: center;
+}
+
+.hero__title {
+  display: inline-block;
+  line-height: 2rem;
+  font-size: 2rem;
+  padding: .5rem;
+  background: $black;
+  color: $white;
+
+  @media (min-width: $bp-md) {
+    padding: 1rem;
+    line-height: 3rem;
+    font-size: 3rem;
+  }
+
+  @media (min-width: $bp-lg) {
+    line-height: 4rem;
+    font-size: 4rem;
+  }
+}

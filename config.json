@@ -10,11 +10,6 @@
       "menu": {
         "main": [
           {
-            "url": "/",
-            "name": "Home",
-            "weight": "0"
-          },
-          {
             "url": "/about",
             "name": "About",
             "weight": "1"
@@ -38,11 +33,6 @@
       "weight": 2,
       "menu": {
         "main": [
-          {
-            "url": "/",
-            "name": "Hogar",
-            "weight": "0"
-          },
           {
             "url": "/sobre",
             "name": "Sobre",
