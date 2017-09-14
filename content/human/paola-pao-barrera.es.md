@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "Nací en Perú en la costa Norte, crecí en un lugar frente al mar, y desde niña tuve la influencia de la pasión por el surf de mi familia, aunque no aprendí a surfear sino hasta que vine a Costa Rica a mis 16 años. Posteriormente viajé por varias partes del país y hace 6 años encontré Nosara, sitio al que llegué originalmente para graduarme como profesora de yoga. Luego de este curso, abrí junto con las escuelas locales un programa de yoga para niños, sin fines de lucro durante 3 meses. Aunque siempre me han gustado los niños, fue ésta experiencia la que confirmó mi pasión por trabajar junto a ellos",
-  "title": "Paola Pao Barrera"
+  "title": "Paola Pao Barrera, Nosara Kids Camp"
 }
 <p>
     Nací en Perú en la costa Norte, crecí en un lugar frente al mar, y desde niña tuve la influencia de la pasión por el surf de mi familia, aunque no aprendí a surfear sino hasta que vine a Costa Rica a mis 16 años. Posteriormente viajé por varias partes del país y hace 6 años encontré Nosara, sitio al que llegué originalmente para graduarme como profesora de yoga. Luego de este curso, abrí junto con las escuelas locales un programa de yoga para niños, sin fines de lucro durante 3 meses.
