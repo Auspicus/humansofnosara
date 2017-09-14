@@ -3,8 +3,6 @@
   "title": "About",
   "type": "page"
 }
-
-
 # About us
 
 ## Who we are

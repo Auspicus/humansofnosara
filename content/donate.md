@@ -3,8 +3,6 @@
   "title": "Donate",
   "type": "page"
 }
-
-
 # Donate
         
 
