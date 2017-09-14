@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "Cuando vivía en casa era periodista, comencé en Kentucky pero después de un par de años conseguí un oficio para trabajar con un senador en DC. Luego de eso, hice relaciones públicas y estuve escribiendo para asociaciones comerciales por varios años. Hace veinte años, mi novia me dijo que vinieramos a Nosara para un paseo de yoga y compré un lote en mi primera visita. Esto me posibilitó establecer un hogar y durante mis primeros tres años aquí estuve haciendo parrilladas con la comunidad y escribiendo artículos para La Voz de Nosara (ahora llamado, La Voz de Guanacaste)",
-  "title": "Fritz Elmendorf"
+  "title": "Fritz Elmendorf, Organico"
 }
 <p>
       Cuando vivía en casa era periodista, comencé en Kentucky pero después de un par de años conseguí un oficio para trabajar con un senador en DC. Luego de eso, hice relaciones públicas y estuve escribiendo para asociaciones comerciales por varios años. Hace veinte años, mi novia me dijo que vinieramos a Nosara para un paseo de yoga y compré un lote en mi primera visita. Esto me posibilitó establecer un hogar y durante mis primeros tres años aquí estuve haciendo parrilladas con la comunidad y escribiendo artículos para <a href='http://www.vozdeguanacaste.com/es'>La Voz de Nosara</a> (ahora llamado, La Voz de Guanacaste).
