@@ -1,17 +1,17 @@
 {
-  "title": "Paola Pao Barrera",
-  "summary": "I was born on the north coast of Peru. I grew up in a place close to the sea and since I was a little girl I’ve had a passion for the surf like my family, although I didn’t learn how to surf until I came to Costa Rica when I was 16. After that I travelled to many different parts of the country and 6 years ago I found Nosara, the place where I came to get my yoga instructor certification. When I finished, I started a yoga program with the local schools without lucrative intentions for about three months. While I have always liked children, after this, I knew that working with them was something I was passionate about",
   "date": "2017-09-12T20:00:38-06:00",
   "image": {
-    "teaser_url": "",
-    "full_image_url": "",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive,c_scale,w_720/v1502926141/Paola%20Barrera/Pao-Portrait_ix3ikx.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1502926141/Paola%20Barrera/Pao-Portrait_ix3ikx.jpg",
     "ratio": "66.66%"
   },
   "name": {
     "first_name": "",
     "last_name": "",
     "nickname": ""
-  }
+  },
+  "summary": "I was born on the north coast of Peru. I grew up in a place close to the sea and since I was a little girl I’ve had a passion for the surf like my family, although I didn’t learn how to surf until I came to Costa Rica when I was 16. After that I travelled to many different parts of the country and 6 years ago I found Nosara, the place where I came to get my yoga instructor certification. When I finished, I started a yoga program with the local schools without lucrative intentions for about three months. While I have always liked children, after this, I knew that working with them was something I was passionate about",
+  "title": "Paola Pao Barrera"
 }
 <p>
       I was born on the north coast of Peru. I grew up in a place close to the sea and since I was a little girl I’ve had a passion for the surf like my family, although I didn’t learn how to surf until I came to Costa Rica when I was 16. After that I travelled to many different parts of the country and 6 years ago I found Nosara, the place where I came to get my yoga instructor certification. When I finished, I started a yoga program with the local schools without lucrative intentions for about three months.
