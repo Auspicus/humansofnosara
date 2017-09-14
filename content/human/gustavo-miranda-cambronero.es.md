@@ -11,7 +11,7 @@
     "nickname": ""
   },
   "summary": "Mi nombre es Gustavo Miranda Cambronero pero puedes llamarme Tao. Llegué a Sámara buscando un nuevo estilo de vida porque la ciudad es mas complicada, monótona, es siempre el mismo espectáculo con gente diferente, yo quiero algo más que eso. Comencé estudiando artes y fue en ese instante cuando me dí cuenta de que la cocina era lo mío, cuando estaba con mis amigos y ponia comida en la mesa noté que se generaba otro ambiente, hay un buen sentimiento cuando la gente disfruta la comida",
-  "title": "Gustavo Miranda Cambronero"
+  "title": "Gustavo Miranda Cambronero, El Mystiko Kolibri"
 }
 <p>Mi nombre es Gustavo Miranda Cambronero pero puedes llamarme Tao. Llegué a Sámara buscando un nuevo estilo de vida porque la ciudad es mas complicada, monótona, es siempre el mismo espectáculo con gente diferente, yo quiero algo más que eso. Comencé estudiando artes y fue en ese instante cuando me dí cuenta de que la cocina era lo mío, cuando estaba con mis amigos y ponia comida en la mesa noté que se generaba otro ambiente, hay un buen sentimiento cuando la gente disfruta la comida. Las dos cosas que me gustan de Nosara son las personas y la energía. Si tuviera que escoger cualquier lugar en el mundo para vivir, escogería uno con la misma energía que tiene Nosara.</p>
 <p>Creo que la experiencia que se obtiene de los errores, nos da una enseñanza valiosa en el futuro, por esta razón no cambiaría las equivocaciones del pasado.</p>
