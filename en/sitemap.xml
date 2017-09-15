@@ -48,32 +48,32 @@
   </url>
   
   <url>
-    <loc>https://www.humansofnosara.org/about/</loc>
+    <loc>https://www.humansofnosara.org/page/about/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.humansofnosara.org/es/sobre/"
+                href="https://www.humansofnosara.org/es/page/sobre/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.humansofnosara.org/about/"
+                href="https://www.humansofnosara.org/page/about/"
                 />
   </url>
   
   <url>
-    <loc>https://www.humansofnosara.org/donate/</loc>
+    <loc>https://www.humansofnosara.org/page/donate/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.humansofnosara.org/es/donar/"
+                href="https://www.humansofnosara.org/es/page/donar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.humansofnosara.org/donate/"
+                href="https://www.humansofnosara.org/page/donate/"
                 />
   </url>
   
@@ -135,6 +135,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.humansofnosara.org/human/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.humansofnosara.org/page/</loc>
+    <lastmod>2017-09-12T13:25:52-06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/page/"
                 />
   </url>
   

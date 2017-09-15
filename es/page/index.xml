@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Humans of Nosara</title>
+    <link>https://www.humansofnosara.org/es/page/</link>
+    <description>Recent content in Pages on Humans of Nosara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Sep 2017 13:25:52 -0600</lastBuildDate>
+    
+	<atom:link href="https://www.humansofnosara.org/es/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Donar</title>
+      <link>https://www.humansofnosara.org/es/page/donar/</link>
+      <pubDate>Tue, 12 Sep 2017 13:25:52 -0600</pubDate>
+      
+      <guid>https://www.humansofnosara.org/es/page/donar/</guid>
+      <description>Donar Está en construcción Hasta el momento, no estamos aceptando donaciones directas. Pero siempre puedes donar a una de las muchas beneficencias locales de Nosara.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://www.humansofnosara.org/es/page/sobre/</link>
+      <pubDate>Tue, 12 Sep 2017 13:25:52 -0600</pubDate>
+      
+      <guid>https://www.humansofnosara.org/es/page/sobre/</guid>
+      <description>Acerca de nosotros Quienes somos Somos un grupo de locales dedicados a mejorar la comunidad. Todo el trabajo que hacemos por este proyecto es completamente voluntario y toda donación que colectamos va directamente destinada a las organizaciones benéficas locales las cuales tienen un impacto positivo.
+Estamos siempre en busca de ayuda para el proyecto así que no dude en contactarnos a contáctenos si le gustaría donar un poco de su tiempo a la causa.</description>
+    </item>
+    
+  </channel>
+</rss>
