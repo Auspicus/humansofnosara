@@ -48,17 +48,17 @@
   </url>
   
   <url>
-    <loc>https://www.humansofnosara.org/es/page/donar/</loc>
+    <loc>https://www.humansofnosara.org/es/donar/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.humansofnosara.org/page/donate/"
+                href="https://www.humansofnosara.org/donate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.humansofnosara.org/es/page/donar/"
+                href="https://www.humansofnosara.org/es/donar/"
                 />
   </url>
   
@@ -78,17 +78,17 @@
   </url>
   
   <url>
-    <loc>https://www.humansofnosara.org/es/page/sobre/</loc>
+    <loc>https://www.humansofnosara.org/es/sobre/</loc>
     <lastmod>2017-09-12T13:25:52-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.humansofnosara.org/page/about/"
+                href="https://www.humansofnosara.org/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.humansofnosara.org/es/page/sobre/"
+                href="https://www.humansofnosara.org/es/sobre/"
                 />
   </url>
   
