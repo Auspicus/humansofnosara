@@ -11,6 +11,9 @@ fields:
   type: text
   hidden: false
   default: page
+- type: text
+  name: url
+  label: URL
 - type: field_group_list
   name: call_to_action
   label: Call to Action
