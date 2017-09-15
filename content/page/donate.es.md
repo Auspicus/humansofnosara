@@ -9,7 +9,7 @@
       "url": "http://www.nosaracivicassociation.com/become-member/"
     },
     {
-      "title": "Banco de comida Nosara",
+      "title": "Banco de Comida Nosara",
       "subtitle": "Ayuda con comida, ropa o refugio a una familia en necesidad",
       "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811420/Nosara%20Food%20Bank/nosara-food-bank.jpg",
       "background_image_position": "Top",
