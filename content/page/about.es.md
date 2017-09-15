@@ -1,5 +1,6 @@
 {
   "date": "2017-09-12T13:25:52-06:00",
+  "url": "",
   "slug": "sobre",
   "title": "Sobre",
   "type": "page",
