@@ -1,20 +1,12 @@
 {
   "call_to_action": [
     {
-      "title": "Reciclaje Nosara",
-      "subtitle": "Ayuda a limpiar el pueblo y paga por nuevas soluciones para el control de desperdicios",
-      "url": "https://amigosofcostarica.org/product/nosara-recycling-association/",
-      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811483/Nosara%20Recycling/nosara-recycling.jpg",
       "background_image_position": "Center",
-      "side": "Right"
-    },
-    {
-      "title": "Bomberos Nosara",
-      "subtitle": "Apoya a nuestros bomberos, para que puedan seguir protegiéndonos",
-      "url": "https://amigosofcostarica.org/product/nosara-firefighters/",
-      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811443/Nosara%20Firefighters/nosara-firefighters.jpg",
-      "background_image_position": "Top",
-      "side": "Right"
+      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811467/Nosara%20Civic%20Association/nosara-civic-association.jpg",
+      "side": "Right",
+      "subtitle": "Apoya a esta organización en sus esfuerzos con la beneficencia local",
+      "title": "Asociación Cívica Nosara",
+      "url": "http://www.nosaracivicassociation.com/become-member/"
     },
     {
       "title": "Banco de comida Nosara",
@@ -25,12 +17,20 @@
       "url": "https://amigosofcostarica.org/product/nosara-food-bank-monthly-gift/"
     },
     {
+      "title": "Bomberos Nosara",
+      "subtitle": "Apoya a nuestros bomberos, para que puedan seguir protegiéndonos",
+      "url": "https://amigosofcostarica.org/product/nosara-firefighters/",
+      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811443/Nosara%20Firefighters/nosara-firefighters.jpg",
+      "background_image_position": "Top",
+      "side": "Right"
+    },
+    {
+      "title": "Reciclaje Nosara",
+      "subtitle": "Ayuda a limpiar el pueblo y paga por nuevas soluciones para el control de desperdicios",
+      "url": "https://amigosofcostarica.org/product/nosara-recycling-association/",
+      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811483/Nosara%20Recycling/nosara-recycling.jpg",
       "background_image_position": "Center",
-      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811467/Nosara%20Civic%20Association/nosara-civic-association.jpg",
-      "side": "Right",
-      "subtitle": "Apoya a esta organización en sus esfuerzos con la beneficencia local",
-      "title": "Asociación Cívica Nosara",
-      "url": "http://www.nosaracivicassociation.com/become-member/"
+      "side": "Right"
     }
   ],
   "date": "2017-09-12T13:25:52-06:00",
