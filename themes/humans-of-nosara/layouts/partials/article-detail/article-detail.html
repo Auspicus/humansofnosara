@@ -1,11 +1,11 @@
 <article class="article-detail">
   <div class="article-detail__shadow-wrapper">
     <div 
-    style='padding-bottom: {{ .Param "image.ratio" }};'
+    style="padding-bottom: {{ .Params.image.ratio }};"
     class="article-detail__image-wrapper">
-      <img src='{{ .Param "image.teaser_url" }}'
+      <img src="{{ .Params.image.teaser_url }}"
       sizes="100vw"
-      srcset='{{ .Param "image.full_image_url" }} 1000w, {{ .Param "image.teaser_url" }} 720w' alt="" class="article-detail__image">
+      srcset="{{ .Params.image.full_image_url }} 1000w, {{ .Params.image.teaser_url }} 720w" alt="" class="article-detail__image">
     </div>
   </div>
   <div class="article-detail__meta">
