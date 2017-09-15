@@ -10,5 +10,5 @@ sections:
   human:
     default_front_matter_template: human
   page:
-    default_front_matter_template: page
+    default_front_matter_template: donar
 version: '0.26'
