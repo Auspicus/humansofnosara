@@ -6,6 +6,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - type: datetime
   name: date
   label: Date
@@ -18,19 +20,8 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: field_group
-  name: name
-  label: Name
-  fields:
-  - type: text
-    label: First Name
-    name: first_name
-  - type: text
-    name: last_name
-    label: Last Name
-  - type: text
-    name: nickname
-    label: Nickname
+  config:
+    required: true
 - type: field_group
   name: image
   label: Image
