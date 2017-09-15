@@ -3,7 +3,6 @@
   "url": "",
   "slug": "sobre",
   "title": "Sobre",
-  "type": "page",
   "call_to_action": [
 
   ]

@@ -9,4 +9,6 @@ webhook_url:
 sections:
   human:
     default_front_matter_template: human
+  page:
+    default_front_matter_template: donar
 version: '0.26'

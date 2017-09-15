@@ -3,7 +3,6 @@
   "title": "Donar",
   "url": "",
   "slug": "donar",
-  "type": "page",
   "call_to_action": [
 
   ]
