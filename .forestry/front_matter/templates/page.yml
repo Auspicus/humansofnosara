@@ -18,3 +18,6 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: text
+    name: subtitle
+    label: Subtitle
