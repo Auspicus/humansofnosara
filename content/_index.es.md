@@ -12,5 +12,3 @@
   "title": "Humans of Nosara",
   "type": "page"
 }
-
-
