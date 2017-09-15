@@ -28,6 +28,16 @@ fields:
     name: background_image_url
     label: Background Image URL
   - type: select
+    config:
+      source:
+        type: simple
+      options:
+      - Top
+      - Center
+      - Bottom
+    label: Background Image Position
+    name: background_image_position
+  - type: select
     name: side
     config:
       source:
