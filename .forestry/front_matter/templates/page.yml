@@ -21,3 +21,18 @@ fields:
   - type: text
     name: subtitle
     label: Subtitle
+  - type: text
+    name: url
+    label: URL
+  - type: text
+    name: background_image_url
+    label: Background Image URL
+  - type: select
+    name: side
+    config:
+      source:
+        type: simple
+      options:
+      - Left
+      - Right
+    label: Side
