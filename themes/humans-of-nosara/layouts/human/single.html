@@ -1,3 +1,6 @@
 {{ partial "header.html" . }}
 {{ partial "article-detail/article-detail.html" . }}
+{{ range .Site.Params.call_to_action }}
+  {{ partial "feature-cta/feature-cta.html" . }}
+{{ end }}
 {{ partial "footer.html" . }}

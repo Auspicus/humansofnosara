@@ -1,10 +1,10 @@
 <div class="feature-cta">
   <div
-    style="background-image: url({{ .background_image_url }});"
+    style='background-position: {{ .background_image_position | default "center" }}; background-image: url({{ .background_image_url }});'
     class="feature-cta__background"></div>
   <div style="float: {{ .side | lower }};" class="feature-cta__content-wrapper">
     <div class="feature-cta__content">
-      <a class="feature-cta__content-link" href="{{ .url }}">
+      <a class="feature-cta__content-link" href="{{ .url | relLangURL }}">
         <span class="feature-cta__button">
           {{ .title }}
         </span>

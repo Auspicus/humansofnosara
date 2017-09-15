@@ -13,6 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "dev": "cd themes/humans-of-nosara && gulp & serve public",
     "build": "cd themes/humans-of-nosara && gulp && cd ../../ && hugo",
     "start": "serve public",
     "watch": "hugo -w & serve public",
