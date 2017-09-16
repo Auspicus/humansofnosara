@@ -27,7 +27,7 @@
     {
       "background_image_position": "Center",
       "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811483/Nosara%20Recycling/nosara-recycling.jpg",
-      "side": "Right",
+      "side": "Left",
       "subtitle": "Ayuda a limpiar el pueblo y paga por nuevas soluciones para el control de desperdicios",
       "title": "Reciclaje Nosara",
       "url": "https://amigosofcostarica.org/product/nosara-recycling-association/"
