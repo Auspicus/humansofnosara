@@ -6,6 +6,11 @@
   &:last-child {
     margin-bottom: 0;
   }
+
+  @media (min-width: 1200px) {
+    max-width: 1280px;
+    margin: 0 auto 2rem;
+  }
 }
 
 .feature-cta__background {
