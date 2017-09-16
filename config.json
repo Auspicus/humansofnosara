@@ -6,6 +6,10 @@
   "languages": {
     "en": {
       "weight": 1,
+      "summary": "A collection of stories from the people of Nosara",
+      "image": {
+        "teaser_url": "/favicon.png"
+      },
       "call_to_action": [
         {
           "title": "Donate",
@@ -32,6 +36,10 @@
     },
     "es": {
       "weight": 2,
+      "summary": "Una colección de historias de la gente de Nosara",
+      "image": {
+        "teaser_url": "/favicon.png"
+      },
       "call_to_action": [
         {
           "title": "Donar",
