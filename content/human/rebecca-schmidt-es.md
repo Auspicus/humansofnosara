@@ -1,5 +1,5 @@
 {
-  "date": "2017-09-24T18:50:00+00:00",
+  "date": "2017-09-24T18:50:00Z",
   "title": "Rebecca Schmidt",
   "summary": "",
   "image": {
