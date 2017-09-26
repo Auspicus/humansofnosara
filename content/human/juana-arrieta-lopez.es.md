@@ -1,5 +1,5 @@
 {
-  "date": "2017-09-25T19:02:27+00:00",
+  "date": "2017-09-25T19:02:27Z",
   "image": {
     "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg",
     "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg",
