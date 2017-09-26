@@ -1,8 +1,8 @@
 {
   "date": "2017-09-25T19:02:27Z",
   "image": {
-    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg",
-    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg",
     "ratio": "66.66%"
   },
   "summary": "Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.",
@@ -10,7 +10,7 @@
   "draft": true
 }
 <p>Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.</p>
-<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 720w" sizes="100vw">
+<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg 720w" sizes="100vw">
 <p>Soy nativa de Nosara pero me fui de aquí cuando tenía 12 años. La razón por la cual regresé fue porque unos familiares acordaron regalarnos un lote para construir nuestra propia casa. En la ciudad por un tiempo tuvimos muchas limitaciones económicas, el hecho de tener que pagar un alquiler disminuía aún más nuestro presupuesto por lo cual teníamos que  mudandarnos constantemente. A pesar de las circunstancias nunca nos dejamos llevar por los malos tiempos, siempre nos acomodamos a lo que tenemos.</p>
 <p>Al principio tenía dudas de regresar a Nosara, desde que me fuí, la zona había cambiado mucho y no tenía claro en qué íbamos a trabajar, primero nos dedicamos a la venta de ropa, yo cosía y él vendía. También nos dedicamos a la venta de pan casero. Sin embargo, con el negocio de las pipas nos ha ido un poco mejor.</p>
 <img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,w_720,fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 720w" sizes="100vw">
