@@ -1,11 +1,20 @@
 {
   "date": "2017-09-25T19:02:27+00:00",
-  "title": "Juana Arrieta López",
-  "summary": "",
   "image": {
     "teaser_url": "",
     "full_image_url": "",
     "ratio": ""
   },
+  "summary": "Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.",
+  "title": "Juana Arrieta López",
   "draft": true
 }
+<p>Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.</p>
+
+<p>Soy nativa de Nosara pero me fui de aquí cuando tenía 12 años. La razón por la cual regresé fue porque unos familiares acordaron regalarnos un lote para construir nuestra propia casa. En la ciudad por un tiempo tuvimos muchas limitaciones económicas, el hecho de tener que pagar un alquiler disminuía aún más nuestro presupuesto por lo cual teníamos que  mudandarnos constantemente. A pesar de las circunstancias nunca nos dejamos llevar por los malos tiempos, siempre nos acomodamos a lo que tenemos.</p>
+
+<p>Al principio tenía dudas de regresar a Nosara, desde que me fuí, la zona había cambiado mucho y no tenía claro en qué íbamos a trabajar, por un tiempo nos dedicamos a la venta de ropa, yo cosía y él vendía. También nos dedicamos a la venta de pan casero. Sin embargo, con el negocio de las pipas nos ha ido un poco mejor.</p>
+
+<p>Cuando vinimos a vivir a Nosara, mi esposo estaba en una etapa severa de tuberculosis extrapulmonar. Durante este tiempo, personas cercanas nos dieron mucho apoyo. Una vez en el hospital, un doctor me dijo que a él le quedaba un mes de vida, de pronto quise llorar, pero no… Miré al doctor y le dije: usted no me puede decir eso porque usted no es Dios. Me lo llevé a la casa, esa misma noche, mi ahijado quien había sido aprendiz en Colombia de una persona que curaba enfermedades con hierbas le comenzó a dar de estos remedios así como pomadas de extractos de plantas. Poco a poco, comenzó a mejorarse.</p>
+
+<p>Creo que la parte más importante de nuestro matrimonio es que somos buenos amigos, siempre estamos juntos, hablamos de lo que ambos queremos y llegamos a un acuerdo, no hay egoísmo ni celos, nos cuidamos el uno al otro y sobretodo nunca perdemos la esperanza aún en los malos tiempos.</p>
