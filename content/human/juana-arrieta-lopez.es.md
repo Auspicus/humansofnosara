@@ -6,7 +6,7 @@
     "ratio": "66.66%"
   },
   "summary": "Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.",
-  "title": "Juanita Arrieta López, la gente de la pipa",
+  "title": "Juana Arrieta López, la gente de la pipa",
   "draft": true
 }
 <p>Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.</p>
