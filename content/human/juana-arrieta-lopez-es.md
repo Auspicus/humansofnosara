@@ -11,16 +11,14 @@
 }
 Nos conocimos en Alajuela en una tienda de venta de telas, en este lugar solíamos trabajar los dos. Desde entonces, siempre hemos trabajado juntos, ganando el sustento de ambos. Antes de casarnos, un doctor me sugirió no hacerlo pues él venía mostrando síntomas de una enfermedad, aun así me casé, yo sabía que una enfermedad no iba a vencerlo. Al día de hoy tenemos 17 años de matrimonio.
 
+<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 720w" sizes="100vw">
+
 Soy nativa de Nosara pero me fui de aquí cuando tenía 12 años. La razón por la cual regresé fue porque unos familiares acordaron regalarnos un lote para construir nuestra propia casa. En la ciudad por un tiempo tuvimos muchas limitaciones económicas, el hecho de tener que pagar un alquiler disminuía aún más nuestro presupuesto por lo cual teníamos que  mudandarnos constantemente. A pesar de las circunstancias nunca nos dejamos llevar por los malos tiempos, siempre nos acomodamos a lo que tenemos.
 
-<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389190/Juanita%20Arrieta/Juanita-Action.jpg 720w"
-sizes="100vw">
+Al principio tenía dudas de regresar a Nosara, desde que me fuí, la zona había cambiado mucho y no tenía claro en qué íbamos a trabajar, primero nos dedicamos a la venta de ropa, yo cosía y él vendía. También nos dedicamos a la venta de pan casero. Sin embargo, con el negocio de las pipas nos ha ido un poco mejor.
 
-Al principio tenía dudas de regresar a Nosara, desde que me fuí, la zona había cambiado mucho y no tenía claro en qué íbamos a trabajar, por un tiempo nos dedicamos a la venta de ropa, yo cosía y él vendía. También nos dedicamos a la venta de pan casero. Sin embargo, con el negocio de las pipas nos ha ido un poco mejor.
+<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,w_720,fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 720w" sizes="100vw">
 
 Cuando vinimos a vivir a Nosara, mi esposo estaba en una etapa severa de tuberculosis extrapulmonar. Durante este tiempo, personas cercanas nos dieron mucho apoyo. Una vez en el hospital, un doctor me dijo que a él le quedaba un mes de vida, de pronto quise llorar, pero no… Miré al doctor y le dije: usted no me puede decir eso porque usted no es Dios. Me lo llevé a la casa, esa misma noche, mi ahijado quien había sido aprendiz en Colombia de una persona que curaba enfermedades con hierbas le comenzó a dar de estos remedios así como pomadas de extractos de plantas. Poco a poco, comenzó a mejorarse.
-
-<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,w_720,fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Action-2.jpg 720w"
-sizes="100vw">
 
 Creo que la parte más importante de nuestro matrimonio es que somos buenos amigos, siempre estamos juntos, hablamos de lo que ambos queremos y llegamos a un acuerdo, no hay egoísmo ni celos, nos cuidamos el uno al otro y sobretodo nunca perdemos la esperanza aún en los malos tiempos.
