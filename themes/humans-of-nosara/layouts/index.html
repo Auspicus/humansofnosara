@@ -1,9 +1,9 @@
 {{ partial "header.html" . }}
 <main id="main" role="main">
-  {{ partial "feature-hero/feature-hero.html" . }}
-  {{ partial "article-listing/article-listing.html" . }}
+  {{ partial "feature-hero.html" . }}
+  {{ partial "article-listing.html" . }}
   {{ range .Params.call_to_action }}
-    {{ partial "feature-cta/feature-cta.html" . }}
+    {{ partial "feature-cta.html" . }}
   {{ end }}
 </main>
 {{ partial "footer.html" . }}

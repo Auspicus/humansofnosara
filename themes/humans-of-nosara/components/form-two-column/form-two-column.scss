@@ -1,0 +1,24 @@
+.form-two-column {
+  max-width: 320px;
+  margin: 2rem auto;
+
+  @media (min-width: 640px) {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 560px;
+    justify-content: space-between;
+  }
+}
+
+.form-two-column__field {
+  flex: 0 0 47.5%;
+  margin-bottom: 1rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.form-two-column__submit {
+  margin: 1rem 0;
+}
