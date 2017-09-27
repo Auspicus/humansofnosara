@@ -4,7 +4,8 @@
   "title": "About",
   "call_to_action": [
 
-  ]
+  ],
+  "summary": "Learn more about who helps keep Humans of Nosara running."
 }
 # About us
 
