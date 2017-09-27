@@ -12,9 +12,7 @@
 
 We are a group of locals dedicated to improving the community. All of the work we do for this project is completely voluntary and any donations we collect go straight to local charities who make a direct positive impact.
 
-We are always looking for help with the project so don't hesitate to contact us if you would like to donate some of your time to the cause.
-
-**humansofnosara@gmail.com** or **+506 84614297**
+We are always looking for help with the project so don't hesitate to <a href="/volunteer">contact us</a> if you would like to donate some of your time to the cause.
 
 ## What we are doing
 

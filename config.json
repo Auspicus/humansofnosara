@@ -29,11 +29,6 @@
           {
             "url": "/donate",
             "name": "Donate",
-            "weight": "3"
-          },
-          {
-            "url": "/volunteer",
-            "name": "Volunteer",
             "weight": "2"
           }
         ]
@@ -64,11 +59,6 @@
           {
             "url": "/es/donar",
             "name": "Donar",
-            "weight": "3"
-          },
-          {
-            "url": "/es/voluntario",
-            "name": "Voluntario",
             "weight": "2"
           }
         ]
