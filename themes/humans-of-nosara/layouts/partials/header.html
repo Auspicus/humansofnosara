@@ -3,6 +3,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ .Title }}{{ if ne .IsHome true }} - {{ .Site.Title }}{{ end }}</title>
+  <meta property="description"   content='{{ .Param "summary" }}'>
   
   <!-- Open Graph Meta Tags -->
   <meta property="fb:app_id"             content="1745997815450551">
@@ -16,8 +18,6 @@
   <meta property="article:publisher"   content="https://www.facebook.com/humansofnosara/">
   {{ end }}
 
-  <title>{{ .Title }}{{ if ne .IsHome true }} - {{ .Site.Title }}{{ end }}</title>
-  <meta property="description"   content='{{ .Param "summary" }}'>
   <link rel="stylesheet" href='{{ "/css/styles.css" | relURL }}'>
   <link rel="icon" type="image/png" href='{{ "/favicon.png" | relURL }}'>
   <link rel="preload"

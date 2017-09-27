@@ -14,3 +14,10 @@ a {
 main {
   min-height: 74vh;
 }
+
+input {
+  border: 0;
+  border-radius: 0;
+  background: #fff;
+  -webkit-appearance: none;
+}
