@@ -12,7 +12,5 @@ Somos un grupo de locales dedicados a mejorar la comunidad. Todo el trabajo que 
 
 Estamos siempre en busca de ayuda para el proyecto así que no dude en contactarnos a <a href="/es/voluntario">contáctenos</a> si le gustaría donar un poco de su tiempo a la causa.
 
-**humansofnosara@gmail.com** o **+506 84614297**
-
 ## Qué hacemos
 Entrevistamos a la población general de Nosara y contamos sus historias, desde ticos hasta turistas, intentamos abarcarlo todo.
