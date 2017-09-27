@@ -1,25 +1,25 @@
-.header {
+.navigation {
   background: $black;
 }
 
-.header__logo {
+.navigation__logo {
   filter: invert(100%);
   width: 30px;
   height: 30px;
 }
 
-.header__nav {
+.navigation__nav {
   max-width: $bp-lg;
   margin: 0 auto;
   padding: 1.5rem;
 }
 
-.header__nav-items {
+.navigation__nav-items {
   float: right;
 }
 
-.header__nav-item,
-%header__nav-item {
+.navigation__nav-item,
+%navigation__nav-item {
   color: $white;
   height: 30px;
   line-height: 30px;
@@ -36,8 +36,8 @@
   }
 }
 
-.header__language {
-  @extend %header__nav-item;
+.navigation__language {
+  @extend %navigation__nav-item;
   margin-left: 1rem;
 
   @media (min-width: $bp-sm) {

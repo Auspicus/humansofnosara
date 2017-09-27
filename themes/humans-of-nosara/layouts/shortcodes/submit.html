@@ -1,0 +1,6 @@
+{{ if .IsNamedParams }}
+<input class="submit" type="submit" value='{{ .Get "text" }}'>
+{{ else }}
+<input class="submit" type="submit" value='{{ .Get 0 }}'>
+{{ end }}
+  

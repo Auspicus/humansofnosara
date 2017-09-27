@@ -1,5 +1,13 @@
-  {{ partial "footer/footer.html" . }}
-  {{ partial "browser-detect.html" }}
-  {{ partial "lazyload.html" }}
+  <footer role="contentinfo" class="footer">
+    <div class="footer__contact">
+      <a href=""></a>
+    </div>
+    <div class="footer__copyright">
+      &copy; Humans of Nosara 2017
+    </div>
+  </footer>
+  {{ partial "scripts/browser-detect.html" }}
+  {{ partial "scripts/lazyload.html" }}
+  <script async src="/js/bundle.js"></script>
 </body>
 </html>

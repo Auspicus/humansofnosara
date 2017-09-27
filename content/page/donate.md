@@ -35,7 +35,8 @@
       "background_image_position": "Center",
       "side": "Left"
     }
-  ]
+  ],
+  "summary": "Donate to one of the many local charities in Nosara."
 }
 # Donate
         

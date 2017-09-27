@@ -1,0 +1,9 @@
+{{ if .IsNamedParams }}
+  <form method='{{ .Get "method" }}' action='{{ .Get "action" }}' class="form-two-column">
+    {{ .Inner }}
+  </form>
+{{ else }}
+  <form method='{{ .Get 0 }}' action='{{ .Get 1 }}' class="form-two-column">
+    {{ .Inner }}
+  </form>
+{{ end }}
