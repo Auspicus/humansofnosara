@@ -1,0 +1,27 @@
+<div class="field">
+  {{ if .IsNamedParams }}
+    <label
+    class="field__label"
+    for='{{ .Get "id" }}'>
+      {{ .Get "label" }}
+    </label>
+    <input
+    class="field__input"
+    id='{{ .Get "id" }}'
+    type='{{ .Get "type" }}'
+    name='{{ .Get "name" }}'
+    required='{{ .Get "required" }}'>
+  {{ else }}
+    <label
+    class="field__label"
+    for='{{ .Get 3 }}'>
+      {{ .Get 0 }}
+    </label>
+    <input
+    class="field__input"
+    id='{{ .Get 3 }}'
+    type='{{ .Get 1 }}'
+    name='{{ .Get 2 }}'
+    required='{{ .Get 4 }}'>
+  {{ end }}
+</div>

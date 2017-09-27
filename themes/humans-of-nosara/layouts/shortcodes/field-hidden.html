@@ -1,0 +1,10 @@
+{{ if .IsNamedParams }}
+<div style="display: none;">
+  <input type="hidden" name='{{ .Get "name" }}' value='{{ .Get "value" }}'>
+</div>
+{{ else }}
+<div style="display: none;">
+  <input type="hidden" name='{{ .Get 0 }}' value='{{ .Get 1 }}'>
+</div>
+{{ end }}
+  

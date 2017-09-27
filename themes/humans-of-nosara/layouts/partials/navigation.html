@@ -1,0 +1,15 @@
+<header role="banner" class="navigation">
+  <nav class="navigation__nav">
+    <a class="navigation__nav-item" aria-label="Home" href='{{ "/" | relLangURL }}'>
+      <img class="navigation__logo" src="/favicon.png" alt="">
+    </a>
+    <div class="navigation__nav-items">
+      {{ range .Site.Menus.main }}
+        <a class="navigation__nav-item" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ range .Translations }}
+        <a class="navigation__language" href="{{ .URL }}">{{ i18n .Lang }}</a>
+      {{ end }}
+    </div>
+  </nav>
+</header>
