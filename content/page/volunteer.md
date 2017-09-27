@@ -4,7 +4,8 @@
   ],
   "date": "2017-09-26T13:25:52-06:00",
   "title": "Become a volunteer",
-  "url": "/volunteer"
+  "url": "/volunteer",
+  "summary": "Join the team behind the stories! Help us by writing stories, taking photos, interviewing, translating or keeping the website up."
 }
 # Become a volunteer
 
