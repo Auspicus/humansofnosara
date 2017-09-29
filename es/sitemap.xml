@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://www.humansofnosara.org/es/human/juana-arrieta-lopez/</loc>
+    <lastmod>2017-09-25T19:02:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.humansofnosara.org/human/juana-arrieta-lopez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.humansofnosara.org/es/human/juana-arrieta-lopez/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.humansofnosara.org/es/human/mario-antonio-reyes-hernandez/</loc>
     <lastmod>2017-09-13T17:33:59-06:00</lastmod>
     <xhtml:link
@@ -139,7 +154,7 @@
   
   <url>
     <loc>https://www.humansofnosara.org/es/human/</loc>
-    <lastmod>2017-09-13T17:33:59-06:00</lastmod>
+    <lastmod>2017-09-25T19:02:27+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
