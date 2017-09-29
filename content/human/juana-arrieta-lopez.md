@@ -6,8 +6,7 @@
     "ratio": "66.66%"
   },
   "summary": "We met in Alajuela in a fabric store where we both worked, since then we have always worked together and made a living together. Before we got married Alexander was very sick and when we went to the doctor, I was advised against marrying him, but we got married anyway. I knew this illness would not defeat him.",
-  "title": "Juana Arrieta López, the pipa people",
-  "draft": true
+  "title": "Juana Arrieta López, the pipa people"
 }
 <p>We met in Alajuela in a fabric store where we both worked, since then we have always worked together and made a living together. Before we got married Alexander was very sick and when we went to the doctor, I was advised against marrying him, but we got married anyway. I knew this illness would not defeat him.</p>
 <img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1506389183/Juanita%20Arrieta/Juanita-Full.jpg 720w" sizes="100vw">
