@@ -1,11 +1,11 @@
 {
   "date": "2017-09-24T18:50:00Z",
-  "title": "Rebecca Schmidt",
-  "summary": "",
   "image": {
-    "teaser_url": "",
-    "full_image_url": "",
+    "teaser_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_720/v1507009331/Rebecca%20Schmidt/Rebecca-Profile.jpg",
+    "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1507009331/Rebecca%20Schmidt/Rebecca-Profile.jpg",
     "ratio": ""
   },
+  "summary": "",
+  "title": "Rebecca Schmidt",
   "draft": true
 }
