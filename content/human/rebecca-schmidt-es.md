@@ -6,7 +6,7 @@
     "ratio": "66.66%"
   },
   "summary": "Vine a Nosara por casualidad. Gané un tiquete a Costa Rica en una rifa en Canadá. Unos cuantos amigos y yo estábamos inspeccionando el lugar, yendo a lo largo de la costa y cruzamos Nosara por accidente, pero en cuanto lo vi supe que era un lugar en el cual yo podría vivir. Experimenté un profundo sentimiento de sencillez que nunca sentí allá en Canadá. Nosara estaba lleno de belleza y fui capturada por las playas y paisajes prístinos. Sentí que era mi obligación regresar. ",
-  "title": "Rebecca Schmidt, Vivé el Sueño",
+  "title": "Rebecca Schmidt, Vive el Sueño",
   "draft": true
 }
 Vine a Nosara por casualidad. Gané un tiquete a Costa Rica en un sorteo en Canadá. Unos cuantos amigos y yo vinimos una semana antes para chequear las playas. Inspeccionando el lugar, yendo a lo largo de la costa, cruzamos Nosara por accidente, pero en cuanto lo ví sentí un profundo sentimiento de estar en casa. Nosara estaba lleno de belleza y fui capturada por las maravillosas playas y paisajes. Sentí en mi corazón que ese era mi llamado de regreso.
