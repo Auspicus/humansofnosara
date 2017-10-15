@@ -10,7 +10,7 @@
   "draft": true
 }
 <p>
-I came to Nosara by chance. I won a ticket to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of being home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back.
+I came to Nosara by "chance". I won a ticket to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of being home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back.
 </p>
 <p>
 After returning to Nosara to live here in 2012, I started my 200 hour yoga teacher training and began peeling back the layers of myself. I had no idea that when I got here I would be taken on a deep healing spiritual journey that would unravel some deep truths about my past. I discovered a repressed childhood trauma that I had buried in my subconscious. This intense realization triggered post traumatic stress disorder causing me to feel lost.
