@@ -5,7 +5,7 @@
     "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1507009331/Rebecca%20Schmidt/Rebecca-Profile.jpg",
     "ratio": "66.66%"
   },
-  "summary": "I came to Nosara by chance. I won a ticket to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of  \nbeing home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back.",
+  "summary": "I came to Nosara by chance. I won a ticket to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of  \nbeing home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back",
   "title": "Rebecca Schmidt, Vive el Sueño",
   "draft": true
 }
@@ -25,6 +25,7 @@ Before I came here I worked in many different industries. The most recent job I 
 <p>
 I love working with our participants. I’ve always had a soft spot for the underdogs, those who were never given the opportunities needed to succeed. I feel like through our platform, those who had never had the education or support to learn these things are finally given a chance. It really warms my heart to see how dedicated and grateful the participants are. They make Vive el Sueño.
 </p>
+<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,w_720,fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg 720w" sizes="100vw">
 <p>
 I love working with our participants. I’ve always had a soft spot for the underdogs, those who were never given the opportunities needed to succeed. I feel like through our platform, those who had never had the education or support to learn these things are finally given a chance. It really warms my heart to see how dedicated and grateful the participants are. They make Vive el Sueño.
 </p>
