@@ -5,7 +5,7 @@
     "full_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1507009331/Rebecca%20Schmidt/Rebecca-Profile.jpg",
     "ratio": "66.66%"
   },
-  "summary": "Vine a Nosara por casualidad. Gané un tiquete a Costa Rica en una rifa en Canadá. Unos cuantos amigos y yo estábamos inspeccionando el lugar, yendo a lo largo de la costa y cruzamos Nosara por accidente, pero en cuanto lo vi supe que era un lugar en el cual yo podría vivir. Experimenté un profundo sentimiento de sencillez que nunca sentí allá en Canadá. Nosara estaba lleno de belleza y fui capturada por las playas y paisajes prístinos. Sentí que era mi obligación regresar. ",
+  "summary": "Vine a Nosara por casualidad. Gané un tiquete a Costa Rica en una rifa en Canadá. Unos cuantos amigos y yo estábamos inspeccionando el lugar, yendo a lo largo de la costa y cruzamos Nosara por accidente, pero en cuanto lo vi supe que era un lugar en el cual yo podría vivir. Experimenté un profundo sentimiento de sencillez que nunca sentí allá en Canadá. Nosara estaba lleno de belleza y fui capturada por las playas y paisajes prístinos. Sentí que era mi obligación regresar",
   "title": "Rebecca Schmidt, Vive el Sueño",
   "draft": true
 }
@@ -20,6 +20,8 @@ Para sentirme mejor, practique yoga, fui a algunas sesiones de respiración y te
 Antes de llegar aquí, trabajé en diferentes industrias. El trabajo más reciente que tuve antes de irme fue para la Ciudad de Toronto, Parques y Recreaciones. Tenía que cortar el césped y darle mantenimiento al parque, esto me ayudó a conectarme con la naturaleza mientras estaba en la ciudad. Ahora trabajo para viva el sueño, una sociedad sin fines de lucro. Empoderamos y educamos a los ticos y ticas locales para que se conviertan en propietarios de pequeñas empresas. Les proveemos de 40 horas de entrenamiento de negocios, 60 horas de lecciones de inglés, entrenamiento de uso de redes sociales, así como creación de sus propios logos hechos por un diseñador gráfico local y una sesión con nuestra fotógrafa profesional.
  </p>
 
-Me encanta trabajar con nuestros participantes, siempre he tenido una debilidad por aquellos que no han tenido la oportunidad de éxito. Siento que a través de nuestro programa, aquellos que tal vez nunca obtuvieron la educación o la experiencia para aprender estas cosas, finalmente tienen su ocasión. Esto realmente derrite mi corazón, ver cuán dedicadas y agradecidas son estas personas. Ellos son los que hacen Vive El Sueño.
-
+<p>Me encanta trabajar con nuestros participantes, siempre he tenido una debilidad por aquellos que no han tenido la oportunidad de éxito. Siento que a través de nuestro programa, aquellos que tal vez nunca obtuvieron la educación o la experiencia para aprender estas cosas, finalmente tienen su ocasión. Esto realmente derrite mi corazón, ver cuán dedicadas y agradecidas son estas personas. Ellos son los que hacen Vive El Sueño.</p>
+<img src="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg" srcset="https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg 1000w, https://res.cloudinary.com/humansofnosara/image/upload/c_scale,w_720,fl_progressive/v1508120092/Rebecca%20Schmidt/Rebecca-Group_vgh2wx.jpg 720w" sizes="100vw">
+<p>
 Si hubiera algo que pudiera mejorar en Nosara serían los sistemas de salud y educación. De verdad necesitamos nuestro propio laboratorio médico para pruebas de sangre y otros servicios de laboratorio. Algunas personas tienen que viajar hasta Nicoya, o incluso San José para dejar sus muestras. El sistema público escolar también necesita inversión. Con poca oferta de maestros y profesores sustitutos, a veces los niños y niñas tienen 1 o más días sin clases cada semana. Al final todo se reduce al dinero, solo necesitamos más fondos para estos servicios públicos.
+</p>
