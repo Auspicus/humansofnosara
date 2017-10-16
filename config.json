@@ -3,6 +3,11 @@
   "title": "Humans of Nosara",
   "theme": "humans-of-nosara",
   "metaDataFormat": "json",
+  "disableKinds": [
+    "RSS",
+    "taxonomy",
+    "taxonomyTerm"
+  ],
   "languages": {
     "en": {
       "weight": 1,
@@ -64,6 +69,5 @@
         ]
       }
     }
-  },
-  "disableKinds": ["RSS", "taxonomy", "taxonomyTerm"]
+  }
 }
