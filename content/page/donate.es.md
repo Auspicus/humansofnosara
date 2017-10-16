@@ -47,10 +47,3 @@
   "title": "Donar",
   "url": "/es/donar"
 }
-# Donar
-        
-
-## Está en construcción
-        
-
-Hasta el momento, no estamos aceptando donaciones directas. Pero siempre puedes donar a una de las muchas beneficencias locales de Nosara.

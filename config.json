@@ -64,5 +64,6 @@
         ]
       }
     }
-  }
+  },
+  "disableKinds": ["RSS", "taxonomy", "taxonomyTerm"]
 }

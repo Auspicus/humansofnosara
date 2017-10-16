@@ -1,8 +1,10 @@
 {{ partial "header.html" . }}
 <main class="page">
   {{ partial "layout-max.html" . }}
+  <div>
   {{ range .Params.call_to_action }}
     {{ partial "feature-cta.html" . }}
   {{ end }}
+  </div>
 </main>
 {{ partial "footer.html" . }}

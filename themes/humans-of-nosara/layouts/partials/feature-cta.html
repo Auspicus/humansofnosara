@@ -1,23 +1,23 @@
 <div class="feature-cta">
-  <div
+  <a class="feature-cta__content-link" href="{{ .url | relLangURL }}">
+    <div
     style='background-position: {{ .background_image_position | default "center" }}; background-image: url({{ .background_image_url }});'
     class="feature-cta__background"></div>
-  <div style="float: {{ .side | lower }};" class="feature-cta__content-wrapper">
-    <div class="feature-cta__content">
-      <a class="feature-cta__content-link" href="{{ .url | relLangURL }}">
+    <div style="float: {{ .side | lower }};" class="feature-cta__content-wrapper">
+      <div class="feature-cta__content">
         <span class="feature-cta__button">
           {{ .title }}
         </span>
         <span class="feature-cta__description">
           {{ .subtitle }}
         </span>
-      </a>
+      </div>
     </div>
-  </div>
-  {{ if .copyright }}
-    <div class="feature-cta__copyright">
-      {{ i18n "imageBy" }}
-      <a href="#">{{ .copyright }}</a>
-    </div>
-  {{ end }}
+    {{ if .copyright }}
+      <div class="feature-cta__copyright">
+        {{ i18n "imageBy" }}
+        <a href="#">{{ .copyright }}</a>
+      </div>
+    {{ end }}
+  </a>
 </div>

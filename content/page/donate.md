@@ -46,10 +46,3 @@
   "title": "Donate",
   "url": "/donate"
 }
-# Donate
-        
-
-## Under construction
-        
-
-As of yet, we are not accepting direct donations. But you can always donate to one of the many local charities in Nosara.
