@@ -138,21 +138,6 @@
   </url>
   
   <url>
-    <loc>https://www.humansofnosara.org/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.humansofnosara.org/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.humansofnosara.org/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.humansofnosara.org/human/</loc>
     <lastmod>2017-09-25T19:02:36+00:00</lastmod>
     <priority>0</priority>
@@ -181,21 +166,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.humansofnosara.org/page/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.humansofnosara.org/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.humansofnosara.org/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.humansofnosara.org/tags/"
                 />
   </url>
   
