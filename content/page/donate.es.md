@@ -13,7 +13,7 @@
       "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/fl_progressive/v1504811420/Nosara%20Food%20Bank/nosara-food-bank.jpg",
       "side": "Left",
       "subtitle": "Ayuda con comida, ropa o refugio a una familia en necesidad",
-      "title": "Banco de Comida Nosara",
+      "title": "Banco Comida Nosara",
       "url": "https://amigosofcostarica.org/product/nosara-food-bank-monthly-gift/"
     },
     {
