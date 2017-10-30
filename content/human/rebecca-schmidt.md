@@ -6,8 +6,7 @@
     "ratio": "66.66%"
   },
   "summary": "I came to Nosara by chance. I won a ticket to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of  \nbeing home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back",
-  "title": "Rebecca Schmidt, Vive el Sueño",
-  "draft": true
+  "title": "Rebecca Schmidt, Vive el Sueño"
 }
 <p>
 I came to Nosara by "chance". I won a vacation to Costa Rica in a contest draw back in Canada. A few of my friends and I came a week early to check out the beaches, driving up and down the coast, and we actually came across Nosara by accident. But as soon as I saw it I knew this was a place I could live. I felt a profound sense of being home. Nosara was just full of beauty. I was captured by the stunning landscapes and beaches. I felt in my heart that it was my calling to come back.
