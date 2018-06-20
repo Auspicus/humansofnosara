@@ -3,7 +3,7 @@
     {
       "title": "Vive el Sueño",
       "subtitle": "Help a local to follow their dreams by supporting this small business training program and Costa Rican non-profit organization",
-      "url": "https://viveelsueno.org/",
+      "url": "https://www.viveelsuenocr.org/",
       "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_1280/v1507049094/Vive%20el%20Sueno/vive-el-sueno_yzyocn.jpg",
       "background_image_position": "Center",
       "side": "Right"
