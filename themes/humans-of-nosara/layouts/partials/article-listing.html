@@ -1,5 +1,5 @@
 <section class="article-listing">
-  {{ range where (where .Site.Pages "Section" "human") ".Kind" "eq" "page" }}
+  {{ range where (where .Site.Pages "Section" "human") "Kind" "page" }}
     {{ .Render "teaser" }}
   {{ end }}
 </section>
