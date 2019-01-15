@@ -1,6 +1,14 @@
 {
   "call_to_action": [
     {
+      "title": "Humans of Nosara",
+      "subtitle": "Support our cause and help us continue documenting the lives of the amazing humans of Nosara",
+      "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=USD&business=davidedisch@gmail.com&item_name=Donation+to+Humans+of+Nosara",
+      "background_image_url": "https://res.cloudinary.com/humansofnosara/image/upload/c_scale,fl_progressive,w_1280/v1547562931/playa-pelada-nosara1_nvf5ne.jpg",
+      "background_image_position": "Center",
+      "side": "Left"
+    },
+    {
       "title": "Vive el Sueño",
       "subtitle": "Help a local to follow their dreams by supporting this small business training program and Costa Rican non-profit organization",
       "url": "https://www.viveelsuenocr.org/",
@@ -14,7 +22,7 @@
       "side": "Left",
       "subtitle": "Help feed, clothe or shelter a family in need",
       "title": "Nosara Food Bank",
-      "url": "https://amigosofcostarica.org/product/nosara-food-bank-monthly-gift/"
+      "url": "https://www.nosarafoodbank.org/"
     },
     {
       "background_image_position": "Top",

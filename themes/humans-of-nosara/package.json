@@ -6,7 +6,7 @@
   "dependencies": {
     "browserify": "^14.4.0",
     "globby": "^6.1.0",
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-clean-css": "^3.8.0",
     "gulp-sass": "^3.1.0",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "gulp",
+    "dev": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
