@@ -10,7 +10,8 @@ function delay (cb) {
   setTimeout(cb, 100);
 }
 
-document.querySelectorAll('.field > input')
+document
+.querySelectorAll('.field > input')
 .forEach(function ($input) {
   var $label = siblings($input, 'label')[0];
   if ($input.value) {
@@ -31,4 +32,4 @@ document.querySelectorAll('.field > input')
         $label.classList.add('field__label--active');
     });
   });
-});
+})

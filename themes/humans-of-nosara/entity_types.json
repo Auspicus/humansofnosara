@@ -1,0 +1,81 @@
+{
+  "entity_types": [
+    {
+      "id": "event",
+      "name": {
+        "single": "Event",
+        "plural": "Events"
+      },
+      "fields": [
+        "name",
+        "host",
+        "location",
+        "time"
+      ]
+    },
+    {
+      "id": "yoga_class",
+      "name": {
+        "single": "Yoga Class",
+        "plural": "Yoga Classes"
+      },
+      "fields": [
+        "name",
+        "host",
+        "location",
+        "time"
+      ]
+    },
+    {
+      "id": "yoga_teacher",
+      "name": {
+        "single": "Yoga Teacher",
+        "plural": "Yoga Teachers"
+      },
+      "fields": [
+        "name",
+        "location"
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": {
+        "single": "Real Estate",
+        "plural": "Real Estate"
+      },
+      "fields": [
+        "name",
+        "images",
+        "location",
+        "price",
+        "url"
+      ]
+    },
+    {
+      "id": "person",
+      "name": {
+        "single": "Person",
+        "plural": "People"
+      },
+      "fields": [
+        "name",
+        "image",
+        "location",
+        "phone",
+        "email"
+      ]
+    },
+    {
+      "id": "charity",
+      "name": {
+        "single": "Charity",
+        "plural": "Charities"
+      },
+      "fields": [
+        "name",
+        "location",
+        "url"
+      ]
+    }
+  ]
+}

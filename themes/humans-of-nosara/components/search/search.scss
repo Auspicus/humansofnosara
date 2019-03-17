@@ -1,0 +1,81 @@
+.search {
+  max-width: 960px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.search__field input {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  padding-left: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.search__icon {
+  position: absolute;
+  left: .75rem;
+  top: .85rem;
+  width: 1rem;
+  height: 1rem;
+  fill: #3c3c3c;
+}
+
+.search__suggestions {
+  margin: 2rem 0;
+  font-weight: 700;
+  font-size: .9rem;
+}
+
+.search__results {
+  margin: 2rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.search__result {
+  box-sizing: border-box;
+  flex: 1 1 100%;
+  text-align: left;
+  box-shadow: 0 10px 15px rgba(50, 50, 93, .1), 0 5px 15px rgba(0, 0, 0, .07);
+  margin-bottom: 3rem;
+  border-radius: 5px;
+  overflow: hidden;
+}
+@media (min-width: 560px) {
+  .search__result {
+    flex: 0 1 47%;
+  }
+}
+
+.search__result a {
+  text-decoration: inherit;
+}
+
+.search__image {
+  width: 100%;
+  height: 10rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.search__result h3 {
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+.search__phone {
+  font-size: .8rem;
+  margin: 1rem;
+}
+
+.search__price {
+  font-size: 1.25rem;
+  margin: 1rem;
+}
+
+.search__location {
+  font-size: .8rem;
+  margin: 1rem;
+}

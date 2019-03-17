@@ -26,7 +26,7 @@ gulp.task('watch', ['hugo'], function () {
 });
 
 gulp.task('hugo', function (done) {
-  new Promise(function (resolve, reject) {
+  new Promise(function (resolve) {
     gulp
     .src('./scss/styles.scss')
     .pipe(sassGlob())
@@ -37,13 +37,12 @@ gulp.task('hugo', function (done) {
     .on('end', resolve);
   })
   .then(function () {
-    return new Promise(function (resolve, reject) {
+    return new Promise(function (resolve) {
       var bundledStream = through();
       bundledStream
         .pipe(source('bundle.js'))
         .pipe(buffer())
         .pipe(sourcemaps.init({loadMaps: true}))
-        .pipe(uglify())
         .pipe(sourcemaps.write('./'))
         .pipe(gulp.dest('./static/js/'));
 

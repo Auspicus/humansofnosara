@@ -1,0 +1,4905 @@
+{
+  "data": [{
+    "uid": "remax_property_0",
+    "name": "ROCK STAR POINT CONDO DEVELOPMENT",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/193_DSCF1408r.JPG?itok=SZc5OZfR"],
+    "price": 0,
+    "url": "https://www.remax-tresamigos-cr.com/property/rock-star-point-condo-development"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Los Altos Cacique - Lots 52, 53 &amp; 54 Being Sold Separately",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1654_0.JPG?itok=l8UmCJT2"],
+    "price": 0,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-cacique-lots-52-53-54-being-sold-separately"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Artola Estates Lot 52",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images.jpg?itok=Me5RSmGN"],
+    "price": 24500,
+    "url": "https://www.remax-tresamigos-cr.com/property/artola-estates-lot-52"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Finca Vainilla #11",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/187_2008-09-10_016-1.JPG?itok=7vyZVls3"],
+    "price": 25000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-11"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Vista Ridge Lot 2B",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/17_Vista%20Ridge%20Golf%20%26%20CC%20Lot%2029%20small%20006-001.JPG?itok=-MdUu10u"],
+    "price": 27000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ridge-lot-2b"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Nacazcol Lot 25A",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Nacazcol-Mediterraneo-2.jpg?itok=Me7v6lPF"],
+    "price": 27000,
+    "url": "https://www.remax-tresamigos-cr.com/property/nacazcol-lot-25a"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Libertad Lot Blackmoon",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Libertad%20Lot%20Blackmoon%20s%20001.jpg?itok=n56k_RTd"],
+    "price": 27825,
+    "url": "https://www.remax-tresamigos-cr.com/property/libertad-lot-blackmoon"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Artola Estates Lot 94",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Artola%2094-10.jpg?itok=51539q1z"],
+    "price": 28500,
+    "url": "https://www.remax-tresamigos-cr.com/property/artola-estates-lot-94"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Artola Estates Lot 82",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Artola%2082%20YT.jpg?itok=zYwx1nLz"],
+    "price": 29000,
+    "url": "https://www.remax-tresamigos-cr.com/property/artola-estates-lot-82"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Lomas Del Mar Lot 235",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lomas%20235-10.jpg?itok=s-S6iWoO"],
+    "price": 29500,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-235"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Lot #30 in Artola Estates",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/136_Artola%20master%20plan%20lot%20%2330.JPG?itok=vq2w0123"],
+    "price": 29900,
+    "url": "https://www.remax-tresamigos-cr.com/property/lot-30-artola-estates"
+  }, {
+    "uid": "remax_property_11",
+    "name": "VRGCC #34",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/69_618618727303_0_BG.JPG?itok=w0baqqrZ"],
+    "price": 29900,
+    "url": "https://www.remax-tresamigos-cr.com/property/vrgcc-34"
+  }, {
+    "uid": "remax_property_12",
+    "name": "232 Lomas del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lomas%20232-1.jpg?itok=Orzf-RSO"],
+    "price": 32000,
+    "url": "https://www.remax-tresamigos-cr.com/property/232-lomas-del-mar"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Artola Estates Lot 95",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Artola%2095-14.jpg?itok=3VAE8VQw"],
+    "price": 33000,
+    "url": "https://www.remax-tresamigos-cr.com/property/artola-estates-lot-95"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Lomas Del Mar Lot 253",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/221_53b%20Lomas%203.JPG?itok=iGCsXSbt"],
+    "price": 34000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-253"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Little Dreams #40",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_0014.JPG?itok=Nsy6p-di"],
+    "price": 34500,
+    "url": "https://www.remax-tresamigos-cr.com/property/little-dreams-40"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Lomas Del Mar  Lot 240",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_20.jpg?itok=JmKw7_Lv"],
+    "price": 35000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-240"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Vista Estates Entrance- Lot # 2",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/61_2.JPG?itok=AvxeBhei"],
+    "price": 35000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-estates-entrance-lot-2"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Lomas del Mar Lot 261, Playa Matapalo",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Day%20of%20Lots-75.jpg?itok=kMBkdbqw"],
+    "price": 35200,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-261-playa-matapalo"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Lomas Del Mar Lot 255",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/31_1.JPG?itok=-JRPctBw"],
+    "price": 37400,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-255"
+  }, {
+    "uid": "remax_property_20",
+    "name": "LOMAS DEL MAR 256",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Day%20of%20Lots-69.jpg?itok=kIGbyH8T"],
+    "price": 38000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-256"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Cocomarindo Commerical Spaces #8, #9 &amp;  #10",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_8900.JPG?itok=eCaYKtHG"],
+    "price": 40000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cocomarindo-commerical-spaces-8-9-10"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Vista Ridge Golf &amp; CC Lot 50",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/pgcc50%20resize%20001.jpg?itok=uuGfAIN2"],
+    "price": 40000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ridge-golf-cc-lot-50"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Lomas Del Mar Lot 156",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/29_1.JPG?itok=RFPCX1-G"],
+    "price": 45000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-156"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Lomas Del Mar PG 4A residential Lot",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/254_1.JPG?itok=houS1WN2"],
+    "price": 45000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-pg-4a-residential-lot"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Playa Ocotal Lot 10-A",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN4545.JPG?itok=S82_jaCz"],
+    "price": 45000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-ocotal-lot-10"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Los Altos Del Cacique Lot 77",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1918_90_IMG_9419.JPG?itok=OvdDGiqb"],
+    "price": 47000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-del-cacique-lot-77"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Roque Lot Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/247_FullSizeRender%20%281%29.JPG?itok=BI9BsEGc"],
+    "price": 48000,
+    "url": "https://www.remax-tresamigos-cr.com/property/roque-lot-playa-hermosa"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Lomas del Mar Lot 258, Playa Matapalo",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Day%20of%20Lots-58.jpg?itok=SclNhtOI"],
+    "price": 48800,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-258-playa-matapalo"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Cacique Lot 45",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Los%20Altos%20del%20Cacique%20Lot%2045%20s%20001.jpg?itok=UNPEDL11"],
+    "price": 49000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-45"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Lomas Lot 105",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lomas%20105-10.jpg?itok=Ne_vvz6y"],
+    "price": 49000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-lot-105"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Communidad Back Lot",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1945_75_Communidad%20Lot%204-min.JPG?itok=W2HxnaTS"],
+    "price": 49000,
+    "url": "https://www.remax-tresamigos-cr.com/property/communidad-back-lot"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Ready to Build Estate Lot 42",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMGP2366.JPG?itok=v_R24U9O"],
+    "price": 50000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ready-build-estate-lot-42"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Papagayo Golf Course - Country Estate Lots",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/192_430918727303_0_BG.JPG?itok=pcrrVcep"],
+    "price": 50000,
+    "url": "https://www.remax-tresamigos-cr.com/property/papagayo-golf-course-country-estate-lots"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Finca Vainilla  1- 2 acre Residental Lots",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/126_normand%20015%20web.JPG?itok=81V5zsnL"],
+    "price": 51000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-1-2-acre-residental-lots"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Lot #161 Lomas del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/36_3.JPG?itok=d933HSOX"],
+    "price": 54400,
+    "url": "https://www.remax-tresamigos-cr.com/property/lot-161-lomas-del-mar"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Encino Lot #331",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/36_VID09239.JPG?itok=YY7wrRJ4"],
+    "price": 55000,
+    "url": "https://www.remax-tresamigos-cr.com/property/encino-lot-331"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Los Altos del Cacique Lots 4 &amp; 5",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/233_2014-09-12%2009.JPG?itok=99yhv5M4"],
+    "price": 55000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-del-cacique-lots-4-5"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Gaviota del Sol Lot 8 and lot 9",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Gaviota%20Lot-100-min.jpg?itok=Zu8MIl79"],
+    "price": 55000,
+    "url": "https://www.remax-tresamigos-cr.com/property/gaviota-del-sol-lot-8-and-lot-9"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Lomas Del Mar Lot 262",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_21.jpg?itok=QZVZ5g_A"],
+    "price": 55000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-262"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Coco Bay Estates 32",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DJI_0019.jpg?itok=pFtIbjWg"],
+    "price": 55000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-32"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Lomas del Mar Lot 260, Playa Matapalo",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Day%20of%20Lots-61.jpg?itok=R0JGQNFV"],
+    "price": 55200,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-260-playa-matapalo"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Mediterraneo 27C",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/3%2Bw06MWLSZuZ3gd0e2L42w.jpg?itok=tqU0Fmga"],
+    "price": 55500,
+    "url": "https://www.remax-tresamigos-cr.com/property/mediterraneo-27c"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Lomas Del Mar Residential and Development Lots",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/227_CR-SS-SHORE7.JPG?itok=H6WClndu"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-residential-and-development-lots"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Coco Bay Estates Lot 20",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Bay%20Estates%20Lot%2020%20001.jpg?itok=BEGvvGSV"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-lot-20"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Coco Bay Estates Lot 38",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Bay%20Estates%20Lot%2038%20Social.jpg?itok=GQZ74urH"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-lot-38"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Lomas Del Mar Lot 141",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_19.jpg?itok=GW8wA3dn"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-141"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Lomas Del Mar Lot 229",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_22.jpg?itok=OKhyOJ5_"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-229"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Lomas Del Mar  Lot 106",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_23.jpg?itok=Td9ac05u"],
+    "price": 59000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-106"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Lomas del Mar Lot 154",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_14.jpg?itok=CQL8P7tP"],
+    "price": 60000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-154"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Veintimiglia 4",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/20181030_162425_resized.jpg?itok=h4L9SXD1"],
+    "price": 62000,
+    "url": "https://www.remax-tresamigos-cr.com/property/veintimiglia-4"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Finca Vainilla Lot #17",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/133_2008-09-10_011-1.JPG?itok=UnGcF9hT"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-lot-17"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Cacique Lot 39",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cacique%20Lot%2039%20s%20001.jpg?itok=bl89U_1l"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-39"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Finca Vainilla Lot  #19",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/39_2008-09-10_011-1.JPG?itok=ciaI9f-H"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-lot-19"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Finca Vainilla Lot #20",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2008-09-10_002.jpg?itok=qbrLWxK7"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-lot-20"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Altos Del Cacique 59",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/186_IMG_0741.JPG?itok=zvzJubnp"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/altos-del-cacique-59"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Los Altos del Cacique Lots 52, 53 and 54",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1654.JPG?itok=ohEBjHRp"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-del-cacique-lots-52-53-and-54"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Los Altos Del Cacique - Lots 52, 53 &amp; 54 Being Sold...",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1654_0.JPG?itok=l8UmCJT2"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-del-cacique-lots-52-53-54-being-sold-separately-or-together"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Lot for Sale in Playas Del Coco - 593.95 M2 / 6,393 SF",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2018-07-02%2008.42.02.jpg?itok=j3xoF8_0"],
+    "price": 65000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lot-sale-playas-del-coco-59395-m2-6393-sf"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Mediterraneo Lot 26c",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DJI_0132-2.jpg?itok=mzs6zHMe"],
+    "price": 65500,
+    "url": "https://www.remax-tresamigos-cr.com/property/mediterraneo-lot-26c"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Agua de Lechuga A103",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1204.JPG?itok=cM2Gxq8I"],
+    "price": 69500,
+    "url": "https://www.remax-tresamigos-cr.com/property/agua-de-lechuga-a103"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Lomas Del Mar  Lot 149",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_25.jpg?itok=k0uJg7ZX"],
+    "price": 69900,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-149"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Quesada Family Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/253_IMG_0710.JPG?itok=kHguTEYj"],
+    "price": 70000,
+    "url": "https://www.remax-tresamigos-cr.com/property/quesada-family-lot"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Altos Del Cacique Lot 80",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/176_IMG_0165.JPG?itok=THfYKwEk"],
+    "price": 70000,
+    "url": "https://www.remax-tresamigos-cr.com/property/altos-del-cacique-lot-80"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Lomas Del Mar lot  138",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_26.jpg?itok=y3LTw9gT"],
+    "price": 72000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-138"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Flamenco Rosa B-17",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG-7162.JPG?itok=fgFpv0vv"],
+    "price": 72000,
+    "url": "https://www.remax-tresamigos-cr.com/property/flamenco-rosa-b-17"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Lomas Del Mar, Lot 111 UNDER CONTRACT",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/114_1.JPG?itok=t75RLokJ"],
+    "price": 74950,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-111-under-contract"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Marina Loft Store Fronts #4 &amp; #5 - Purchase both or only one",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1312.JPG?itok=hXIcgxDP"],
+    "price": 75000,
+    "url": "https://www.remax-tresamigos-cr.com/property/marina-loft-store-fronts-4-5-purchase-both-or-only-one"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Casa Carlita",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_0370%20%28FILEminimizer%29.JPG?itok=ugAXZy6u"],
+    "price": 75000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-carlita"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Vista Estates Lot 15",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/001.JPG?itok=CRYA6eCT"],
+    "price": 75000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-estates-lot-15"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Le Coq Restaurant",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_16.jpg?itok=MDqIPG2d"],
+    "price": 75000,
+    "url": "https://www.remax-tresamigos-cr.com/property/le-coq-restaurant"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Vistas Del Pacifico   Lot B-22   Ocean Views  See Video JUST...",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/default_images/noimage.gif?itok=ylryoEGs"],
+    "price": 75500,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-lot-b-22-ocean-views-see-video-just-reduced"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Finca Vainilla Lot #21",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/34_2008-09-10_011-1.JPG?itok=_G7dVkOz"],
+    "price": 77750,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-lot-21"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Lomas Del Mar Lot 164",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_24.jpg?itok=wPYO86D5"],
+    "price": 78000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-164"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Pacifico Lot 93",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2093-1.jpg?itok=a0wx7hu6"],
+    "price": 79000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-93"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Monte Paraiso Lot 4",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_9274.JPG?itok=8h0WtstS"],
+    "price": 79000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-4"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Pacifico Lot 136",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/PACIFICO%20136%20-%20ELEVATIONS.jpg?itok=UhB6ds7p"],
+    "price": 79000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-136"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Lomas Del Mar Ocean View Lot 208",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/209_Lomas%20Lots%20011.JPG?itok=1hcMGuM8"],
+    "price": 80000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-ocean-view-lot-208"
+  }, {
+    "uid": "remax_property_33",
+    "name": "PGCC Lot 10 on 3rd Green",
+    "location": {
+      "name": "Papagayo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/103_618618727303_0_BG.JPG?itok=OKepA-ga"],
+    "price": 85000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pgcc-lot-10-3rd-green"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Monte Bello Norte 4",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/MBN4-5-6_0.jpg?itok=J6dB2Xl2"],
+    "price": 85000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-norte-4"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Monte Bello Norte 5",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/MBN4-5-7.jpg?itok=KeZ6aAF2"],
+    "price": 85000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-norte-5"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Lomas Del Mar lots 245 &amp; 246",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_27.jpg?itok=K4Z0q9Pr"],
+    "price": 89000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lots-245-246"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Ladera del Mar Ranchitos Ridge Lot 22",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/LDM%20RR%20Lot%2022%20001.jpg?itok=qLCl71y5"],
+    "price": 89000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-ranchitos-ridge-lot-22"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Monte Paraiso Lot 2  JUST REDUCED.  See video",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/249_Monte%20Paraiso%20lot%2017.JPG?itok=-yc-HlDG"],
+    "price": 89000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-2-just-reduced-see-video"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Lomas del Mar Lot 230",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_28.jpg?itok=TUsboJC4"],
+    "price": 90000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-230"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Isabella Lot 20",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_2957.JPG?itok=zhZ3I0jU"],
+    "price": 90000,
+    "url": "https://www.remax-tresamigos-cr.com/property/isabella-lot-20"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Villa la Colina 8033",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VLC%208033%20YT_1.jpg?itok=CIMUMxeF"],
+    "price": 95000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-la-colina-8033"
+  }, {
+    "uid": "remax_property_42",
+    "name": "VLC Dolce Vita 8036",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VLC8036-11.jpg?itok=-loPibKd"],
+    "price": 95000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vlc-dolce-vita-8036"
+  }, {
+    "uid": "remax_property_43",
+    "name": "VLC Dolce Vida 8035",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VLC%208035%20YT%20%281%29.jpg?itok=0peC0l_e"],
+    "price": 95000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vlc-dolce-vida-8035"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Serena Suites G01",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Serena%20Suites%20G%2001%20001.jpg?itok=TWGZTcsd"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serena-suites-g01"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Ladera Del Mar Ranchitos 2",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Ladera%20Entrance%203%20%282%29.jpg?itok=VeIKhxqz"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-ranchitos-2"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Sierra Suerte Lucky Mountain",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/188_DSCI0195%20%28Medium%29.JPG?itok=IvXDAxG7"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sierra-suerte-lucky-mountain"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Monte Bello North 9 Ocean View Lot Playa Hermosa See Video",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1_New%20Panoramic%20Web.JPG?itok=y_PC_vKZ"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-north-9-ocean-view-lot-playa-hermosa-see-video"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Lomas del Mar Lot 212",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1-min.jpg?itok=r5uNbDA0"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-212"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Coco Bay Estates Lot 66 Ocean Views",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Bay%20Estates%20Lot%2066-1.jpg?itok=WlXrS8Op"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-lot-66-ocean-views"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Ocotal Lot 2-B",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1815_53_DSCN4496.JPG?itok=wdIrrr6k"],
+    "price": 99000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocotal-lot-2-b"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Ranchitos Rigde 23, Ladera del Mar",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2_7.jpg?itok=SZvQKiIg"],
+    "price": 99500,
+    "url": "https://www.remax-tresamigos-cr.com/property/ranchitos-rigde-23-ladera-del-mar"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Vistas del Pacifico Lot 3",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VDP%20Lot%203%20resize%201.jpg?itok=rG3c_d8V"],
+    "price": 100000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-lot-3"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Coco Bay Estates Ocean View Lot 27",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_0242a.jpg?itok=Wx4u-ePB"],
+    "price": 100000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-ocean-view-lot-27"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Pacifico Lot 47",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Beach%20Club-1_1.jpg?itok=Rzh-Ldzw"],
+    "price": 105000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-47"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Sea Bird #10",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/01_2.jpg?itok=exxVcN_N"],
+    "price": 110000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sea-bird-10"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Palo Alto 27B",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/01PaloAltoEntry.jpg?itok=x2zvX_71"],
+    "price": 110000,
+    "url": "https://www.remax-tresamigos-cr.com/property/palo-alto-27b"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Casa Tortuga",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_0839%20%28FILEminimizer%29.JPG?itok=R_siKuVe"],
+    "price": 110000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-tortuga"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Coco Bay Estates Lot 51",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC01413.JPG?itok=cl-M4F4c"],
+    "price": 110000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-lot-51"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Palo Lot Lot 27A",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/150_PaloAltoLot27-11.JPG?itok=uDouOUnl"],
+    "price": 115000,
+    "url": "https://www.remax-tresamigos-cr.com/property/palo-lot-lot-27a"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Lomas Del Mar, Lot 215 Ocean Views",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%202152.jpg?itok=8G8PoiYq"],
+    "price": 115000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-215-ocean-views"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Lomas Del Mar Lot 209",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_1122.jpg?itok=i81OLBSw"],
+    "price": 115000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-209"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Coco Bay Estates Ocean View Lot 21",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Bay%20Estates%20Lot%2021%20s%20001.jpg?itok=G2KwK2nG"],
+    "price": 115000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-ocean-view-lot-21"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Lomas Del Mar Ocean View  Lot 202",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_7427.jpg?itok=9bJaqvS6"],
+    "price": 116000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-ocean-view-lot-202"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Villa Riviera B-6",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN4959_0.JPG?itok=LtJP1vQ1"],
+    "price": 118000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-riviera-b-6"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Libertad Lot",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1789_252_06.JPG?itok=g5EhDJxA"],
+    "price": 120000,
+    "url": "https://www.remax-tresamigos-cr.com/property/libertad-lot"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Flor de Limon",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Flor%20de%20Limon-2.jpg?itok=JfW7veDz"],
+    "price": 120000,
+    "url": "https://www.remax-tresamigos-cr.com/property/flor-de-limon"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Monte Paraiso Ocean View lot 16",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/12_Views%20from%202nd%20level%20home.JPG?itok=WTHeI9w2"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-ocean-view-lot-16"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Cacique Lot 74",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/241_Entrance.JPG?itok=xo68uE3i"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-74"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Playa Hermosa Lot Price Reduced",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/72_DSC0112022.JPG?itok=QUJZjPNS"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-hermosa-lot-price-reduced-0"
+  }, {
+    "uid": "remax_property_25",
+    "name": "VDP F-5",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/242_Vistas%20del%20Pacifico%20Lot%20F5%20resize%201.JPG?itok=CnhHV0ZJ"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vdp-f-5"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Palo Alto- Lot 44 Walk to the Beach",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Palo%20Alto%20Lot%2044-1.jpg?itok=KlnYonni"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/palo-alto-lot-44-walk-beach"
+  }, {
+    "uid": "remax_property_27",
+    "name": "LOMAS DEL MAR LOT 203",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lomas%20203%20%281%29.jpg?itok=RRo7L5Ns"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-203"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Altos Del Cacique 124",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/245_IMGP3394.JPG?itok=wDk6hbkB"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/altos-del-cacique-124"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Serena Suites K3",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Bedroom%202-1_2.jpg?itok=ECW3Bpq3"],
+    "price": 125000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serena-suites-k3"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Lomas Del Mar Lot 219 Ocean Views",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2018-04-15_14-24-52.jpg?itok=65JGHU_5"],
+    "price": 126000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-219-ocean-views"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Hermosa Montana Lot 11",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Montana%20Lot%2011%20s%20001.jpg?itok=jqs0zgOJ"],
+    "price": 129000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-montana-lot-11"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Lomas Del Mar Lot 216",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN2791.JPG?itok=cM2EStEH"],
+    "price": 132000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-216"
+  }, {
+    "uid": "remax_property_33",
+    "name": "#6 Valle Dorado",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Valle%20Dorado%206%20YT.jpg?itok=Bluzqh4z"],
+    "price": 135000,
+    "url": "https://www.remax-tresamigos-cr.com/property/6-valle-dorado"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Vistas Del Pacifico Lot B12",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Vistas%20del%20Pacifico%20Lot%20B12%201%20%281%29.jpg?itok=iHgWaq68"],
+    "price": 135000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-lot-b12"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Flamenco Rosa B14",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Flamenco%20Rosa%20B14%20016.jpg?itok=Dc38k140"],
+    "price": 135000,
+    "url": "https://www.remax-tresamigos-cr.com/property/flamenco-rosa-b14"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Vistas Del Pacifico Lot 26 JUST REDUCED",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/206_IMG_1855%20%28Small%29.JPG?itok=10gxRDyI"],
+    "price": 135000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-lot-26-just-reduced"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Vistas Del Pacifico Lot 27 JUST REDUCED",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/185_IMG_1855%20%28Small%29.JPG?itok=LK5fGFO2"],
+    "price": 135000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-lot-27-just-reduced"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Ladera del Mar, Monte Vista # 16",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe"],
+    "price": 137500,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-monte-vista-16"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Monte Paraiso Lot 1 Ocean View",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/202_IMG_0591.JPG?itok=1rzhXokK"],
+    "price": 139000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-1-ocean-view"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Flamenco Rosa B16",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Flamenco%20Rosa%20B16%20012.jpg?itok=7SR-mmwI"],
+    "price": 139000,
+    "url": "https://www.remax-tresamigos-cr.com/property/flamenco-rosa-b16"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Colonial Plaza Retail Office #7",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/250_DSCN5040.JPG?itok=--MwiTn-"],
+    "price": 140000,
+    "url": "https://www.remax-tresamigos-cr.com/property/colonial-plaza-retail-office-7"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Plaza Colonial #8",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/72_IMG_0560.JPG?itok=QLxD-ZS1"],
+    "price": 140000,
+    "url": "https://www.remax-tresamigos-cr.com/property/plaza-colonial-8"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Los Retoños C",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7960.JPG?itok=27gKsv-H"],
+    "price": 143000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-reto%C3%B1os-c"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Los Retoños C",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7960.JPG?itok=27gKsv-H"],
+    "price": 143000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-reto%C3%B1os-c"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Agua de Lechuga B204",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/ADL%20B204-10.jpg?itok=u2YF2wQo"],
+    "price": 144500,
+    "url": "https://www.remax-tresamigos-cr.com/property/agua-de-lechuga-b204"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Lomas Del Mar Lot 217",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN2802.JPG?itok=D8RjBIkS"],
+    "price": 145000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-217"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Agua De Lechuga - A202 Unique Condo",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC06592.jpg?itok=PJUt-2Vj"],
+    "price": 145000,
+    "url": "https://www.remax-tresamigos-cr.com/property/agua-de-lechuga-a202-unique-condo"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Ladera del Mar Lot #18",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/224_Lot%2018%20Sunset%20Panorama-reduced.JPG?itok=nI9NmzCS"],
+    "price": 145000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-lot-18"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Palo Alto Lot 14 Ocean Views",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Palo%20Alto%20Lot%2014%20s%20001.jpg?itok=v_tvQmS8"],
+    "price": 149000,
+    "url": "https://www.remax-tresamigos-cr.com/property/palo-alto-lot-14-ocean-views"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Country Acreage La Libertad 10 acres",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/136_2015-10-30_13-08-13.JPG?itok=P9pqwJRK"],
+    "price": 149000,
+    "url": "https://www.remax-tresamigos-cr.com/property/country-acreage-la-libertad-10-acres"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Los Altos Del Cacique  Lot 74",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/67_SAM_0487%20web.JPG?itok=BkVOS_Zu"],
+    "price": 149000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-altos-del-cacique-lot-74"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Chorotega Lots  2 min walk to Beach",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/29_DSC00881.JPG?itok=x7XCwFOW"],
+    "price": 149000,
+    "url": "https://www.remax-tresamigos-cr.com/property/chorotega-lots-2-min-walk-beach"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Rock Lots in Vistas del Pacifico",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/245_DSC00787.JPG?itok=23ufIXfT"],
+    "price": 149000,
+    "url": "https://www.remax-tresamigos-cr.com/property/rock-lots-vistas-del-pacifico"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Cactus Heights - Ocean View Lots 4 &amp; 5",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_12.jpg?itok=H8IhWiVL"],
+    "price": 150000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cactus-heights-ocean-view-lots-4-5"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Lomas Vistas Development Parcel - PG 2",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1798_183_2.JPG?itok=XAny8RiD"],
+    "price": 150000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-vistas-development-parcel-pg-2"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Clara Hermosa Lot 3",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Clara%20Hermosa-10.jpg?itok=1-meha26"],
+    "price": 154900,
+    "url": "https://www.remax-tresamigos-cr.com/property/clara-hermosa-lot-3"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Ladera del Mar MV Estates Lot 29",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/LDM%20MV%20Lot%2029%20001.jpg?itok=ymNHtlH2"],
+    "price": 159000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-mv-estates-lot-29"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Lomas Del Mar Ocean View Lot 201",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_7423.jpg?itok=XyTTu5tJ"],
+    "price": 159000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-ocean-view-lot-201"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Ladera del Mar, Monte Vista #10",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_9.jpg?itok=xsFt6oVr"],
+    "price": 159500,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-monte-vista-10"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Casa Botanica Ocotal",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Ocotal%20Casa%20Botanica%20s%20001.jpg?itok=3VsJTGwe"],
+    "price": 159900,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-botanica-ocotal"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Guacimo Fiorito 18",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Guacimo%20Fiorito%2018-2.jpg?itok=gdfBOtrs"],
+    "price": 160000,
+    "url": "https://www.remax-tresamigos-cr.com/property/guacimo-fiorito-18"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Coco Joya 3",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Joya%203%20small%20001.jpg?itok=7IKf5fCE"],
+    "price": 169000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-joya-3"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Pacifico C 107",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20107%20s%20001.jpg?itok=tdn5bLe7"],
+    "price": 170000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-107"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Pacifico L 515",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L515%20small%20001.jpg?itok=IgdWHqf2"],
+    "price": 170000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-515"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Villas Sol #15",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/SAM_1218.JPG?itok=c4DfsIjy"],
+    "price": 172000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villas-sol-15"
+  }, {
+    "uid": "remax_property_21",
+    "name": "2 Bed, 2 bath Playas del Coco, Coco Joya #5",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/default_images/noimage.gif?itok=ylryoEGs"],
+    "price": 174000,
+    "url": "https://www.remax-tresamigos-cr.com/property/2-bed-2-bath-playas-del-coco-coco-joya-5"
+  }, {
+    "uid": "remax_property_22",
+    "name": "2 Bed, 2 bath Playas del Coco, Coco Joya #5",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/CJ5-1_0.jpg?itok=blNk_BSC"],
+    "price": 174000,
+    "url": "https://www.remax-tresamigos-cr.com/property/2-bed-2-bath-playas-del-coco-coco-joya-5-0"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Playa Ocotal Lot 22",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Ocotal%20Lot%2022%20YT.jpg?itok=LFLSR6DO"],
+    "price": 175000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-ocotal-lot-22"
+  }, {
+    "uid": "remax_property_24",
+    "name": "UNDER CONTRACT Vistas del Pacifico Ocean View Lot  13B",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/63_Four%20Seasons%20Ocean%20View.JPG?itok=bEOuMPCj"],
+    "price": 175000,
+    "url": "https://www.remax-tresamigos-cr.com/property/under-contract-vistas-del-pacifico-ocean-view-lot-13b"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Pacifico Heights Lot 4",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Heights%20Lot%204%20001.jpg?itok=Q5oXZUrM"],
+    "price": 175000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-heights-lot-4"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Coco Sun Set Hills",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Sunset%20Hills-11.jpg?itok=zueQSwGK"],
+    "price": 175000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-sun-set-hills"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Vistas del Pacifico Ocean View Lot",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/166_DSC01369.JPG?itok=cve5mqdT"],
+    "price": 175000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vistas-del-pacifico-ocean-view-lot"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Pacifico L509",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L509%20YT.jpg?itok=fergzLro"],
+    "price": 176000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l509"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Pacifico L516",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L516%20YT.jpg?itok=cKGFWdJU"],
+    "price": 178000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l516"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Vista Ocotal 1A",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VistaOcotal1A-0.jpg?itok=w0tCFcne"],
+    "price": 179000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ocotal-1a"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Lot 119 in Los Altos del Cacique",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cacique%20Lot%20119-1.jpg?itok=tABC7HTP"],
+    "price": 179000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lot-119-los-altos-del-cacique"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Casa Corrales",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Corrales-12.jpg?itok=hGZLJY_e"],
+    "price": 179000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-corrales"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Solarium WareHouse or Office Facility",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/220_SAM_4114.JPG?itok=URMOyure"],
+    "price": 179000,
+    "url": "https://www.remax-tresamigos-cr.com/property/solarium-warehouse-or-office-facility"
+  }, {
+    "uid": "remax_property_34",
+    "name": "5 Lots in Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Playa%20Hermosa%205%20Lots%201.jpg?itok=2-dC2pYk"],
+    "price": 180000,
+    "url": "https://www.remax-tresamigos-cr.com/property/5-lots-playa-hermosa"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Pacifico L-216",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Beach%20Club%20216.jpg?itok=w0SbBsW4"],
+    "price": 184000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-216"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Hermosa Heights Lot 50",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HH%20Lot%2050-51.jpg?itok=l7X7MmD8"],
+    "price": 184885,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-lot-50"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Casa Estrella - 300 meters to the beach",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/house1.jpg?itok=wUuGuXWO"],
+    "price": 185000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-estrella-300-meters-beach"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Valle Escondido 6 &amp; 7",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/100_0276.jpg?itok=f9e9fDKz"],
+    "price": 185000,
+    "url": "https://www.remax-tresamigos-cr.com/property/valle-escondido-6-7"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Isabella Lot 11",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_2941.JPG?itok=aIuv0JNZ"],
+    "price": 185000,
+    "url": "https://www.remax-tresamigos-cr.com/property/isabella-lot-11"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Coco Joya 6",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Joya%206%20s%20001.jpg?itok=mIkyeYe6"],
+    "price": 185000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-joya-6"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Finca Tierra Salvaje",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/146_IMG_0488.JPG?itok=0MCpjDzu"],
+    "price": 187000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-tierra-salvaje"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Pacifico Life Style 813 Sold!!!",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Beach%20Club-1_2.jpg?itok=0MtwOC8B"],
+    "price": 188500,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-life-style-813-sold"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Pacifico L1213",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico-2_0.jpg?itok=YrAcVqFW"],
+    "price": 189900,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l1213"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Pacifico C 203",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C203%20s%20001.jpg?itok=jm2QXGSA"],
+    "price": 190000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-203"
+  }, {
+    "uid": "remax_property_0",
+    "name": "346 El Oasis",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/El%20Oasis%20346%20YT.jpg?itok=fLi66Sbn"],
+    "price": 190000,
+    "url": "https://www.remax-tresamigos-cr.com/property/346-el-oasis"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Pacifico L 608",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20608%20001.jpg?itok=Z1UwPo4y"],
+    "price": 195000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-608"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Pacifico Lot 105 - Stunning Ocean View Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%20105%20Main.JPG?itok=JGhWOaMP"],
+    "price": 195000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-105-stunning-ocean-view-lot"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Vista Estates View lot #29 BEST PRICED WATER VIEW LOT JUST...",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/140_web%202.JPG?itok=H2_9LEr3"],
+    "price": 195000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-estates-view-lot-29-best-priced-water-view-lot-just-reduced"
+  }, {
+    "uid": "remax_property_4",
+    "name": "#29 Villas Sol",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Sol%2029%20YT.jpg?itok=82xR8Wm_"],
+    "price": 198000,
+    "url": "https://www.remax-tresamigos-cr.com/property/29-villas-sol"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Pacifico L 209",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20209%20s%20001.jpg?itok=NS_9_FCg"],
+    "price": 199000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-209"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Mar Vista Ocean View Lot 20",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/17_1.JPG?itok=x9uLxeI7"],
+    "price": 199000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mar-vista-ocean-view-lot-20"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Finca Miramontes",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Distance%20Screen%20Shot%202.png?itok=1a0ZRriU"],
+    "price": 199000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-miramontes"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Pacifico Lot 108",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20108%20s%20001.jpg?itok=JfkhxY0K"],
+    "price": 199000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-108"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Coco Bay Estates 52",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/234_IMG_1593.JPG?itok=DAL9UHgK"],
+    "price": 199000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-bay-estates-52"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Isabella Lot #9",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_4871.JPG?itok=WGkPsw1z"],
+    "price": 199900,
+    "url": "https://www.remax-tresamigos-cr.com/property/isabella-lot-9"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Los Retoños B",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7931.JPG?itok=oJ9JPDx7"],
+    "price": 200000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-reto%C3%B1os-b"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Monte Bello Norte 3",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/81_Google%20Map%20close.JPG?itok=-SYzM5ag"],
+    "price": 200000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-norte-3"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Playa Junquillal Beach Front Lot Laker",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Junquillal%20Beachfront%20resize%20001.jpg?itok=F58lO6f6"],
+    "price": 200000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-junquillal-beach-front-lot-laker"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Pacifico C403",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/C403%20YT.jpg?itok=tOi3goUV"],
+    "price": 204000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c403"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Sea Coco View",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Sea%20Coco%20View-103.jpg?itok=q03OMdw_"],
+    "price": 204000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sea-coco-view"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Pacifico C 206",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20206%20s%20001.jpg?itok=2hmkyy5p"],
+    "price": 205000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-206"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Coco Development lots",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Lots-1.jpg?itok=rfpAi8nd"],
+    "price": 205800,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-development-lots"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Pacifico C303",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/C303-1.jpg?itok=6SRfJbpK"],
+    "price": 209000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c303"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Serendipity Ocean View Lot 9  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%209%20-%201.jpg?itok=kYAvzL9E"],
+    "price": 210000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-9-lomas-del-mar"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Hermosa Heights 31",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HH31%20YT.jpg?itok=Ydma3gSj"],
+    "price": 215000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-31"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Pacifico Clubside 506",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/PacificoPools2_0.jpg?itok=8i9X_FIj"],
+    "price": 215000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-clubside-506"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Pacifico C 507",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20507%20s%20001.jpg?itok=BvR60pmt"],
+    "price": 219000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-507"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Cacique Lot 114",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/140_John%20Davidson%20Cacique%20006.JPG?itok=ZqHsqx-e"],
+    "price": 220000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-114"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Lomas del Mar Lot 220",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Day%20of%20Lots-26.jpg?itok=cMqpVUtq"],
+    "price": 220000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-lot-220"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Monte Bello Lot 1",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%201%20View%20cropped.JPG?itok=ClVpNXSp"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-1-0"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Monte Paraiso lot 26-PRICE REDUCED!!",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_3776.JPG?itok=vcmppeQZ"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-26-price-reduced"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Monte Bello Lot 2",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_2349%20cropped.JPG?itok=ax_KGmyN"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-2"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Casa Velu",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN8240.jpg?itok=-RXyG6rT"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-velu"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Pacifico C 402",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20402%20s%20001.jpg?itok=15jrhC9i"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-402"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Serendipity Ocean View  Lot 8  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%208%20-%201.jpg?itok=x9N-8tlf"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-8-lomas-del-mar"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Villas Sol #53",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Sol%2053-1_0.jpg?itok=2iX9cWDF"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villas-sol-53"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Serendipity  Ocean View Lot 10  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%2010%20-%201.jpg?itok=paSPWxIX"],
+    "price": 225000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-10-lomas-del-mar"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Los Almendros 30",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Los%20Almendros%2030%20YT.jpg?itok=PN0rXNGR"],
+    "price": 225900,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-almendros-30"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Hermosa Heights Lot 64",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Heights%20Lot%2064%20s%20001.jpg?itok=sPCh-K0M"],
+    "price": 229000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-lot-64"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Coco Joya 11",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Joya%2011%20s%20001.jpg?itok=xXmENDDk"],
+    "price": 229000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-joya-11"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Pacifico Lot 10",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2010%20001.jpg?itok=c1ENTCEv"],
+    "price": 230000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-10"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Solarium D-18",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/7_HPIM1483.JPG?itok=a_yIWBw1"],
+    "price": 230000,
+    "url": "https://www.remax-tresamigos-cr.com/property/solarium-d-18"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Hermosa Heights 32",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/007.jpg?itok=LlDgDsSM"],
+    "price": 230000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-32"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Serendipity Ocean View  Lot 7  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%207%20-%201.jpg?itok=QbAIeY5R"],
+    "price": 230000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-7-lomas-del-mar"
+  }, {
+    "uid": "remax_property_40",
+    "name": "EL CUBIL",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1950_38_DSC_2586.JPG?itok=mUfVZ_X_"],
+    "price": 230000,
+    "url": "https://www.remax-tresamigos-cr.com/property/el-cubil"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Vista Ocotal 8",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Vista%20Ocotal41.JPG?itok=Xu46fLd8"],
+    "price": 235000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ocotal-8"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Ground Floor Pool Side Pacifico L505",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L505-1.jpg?itok=Ux3Nkx2P"],
+    "price": 235000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ground-floor-pool-side-pacifico-l505"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Pacifico L 1204",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%201204%20s%20001_0.jpg?itok=S0yBEJxg"],
+    "price": 235000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-1204"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Pacifico L614",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Terrace%20View.jpg?itok=6xRn9wUI"],
+    "price": 239000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l614"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Pacifico L 1202",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%201202%20s%20001.jpg?itok=rdruiq0v"],
+    "price": 239000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-1202"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Condo Pacifico L-1214",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/a_0.jpg?itok=JuF-hihK"],
+    "price": 239000,
+    "url": "https://www.remax-tresamigos-cr.com/property/condo-pacifico-l-1214"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Pacifico C 207",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20207%20s%20001_0.jpg?itok=BD6YC9oP"],
+    "price": 239000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-207"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Valle del Sol #10",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Valle%20del%20Sol%2010%20s%20001.jpg?itok=Lt0GCFCE"],
+    "price": 239900,
+    "url": "https://www.remax-tresamigos-cr.com/property/valle-del-sol-10"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Pacifico Heights Ocean View Lot 3",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Heights%203-11_0.jpg?itok=FSsIK8l1"],
+    "price": 240000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-heights-ocean-view-lot-3"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Horse Lovers' Dream",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_2065%20%281%29.jpg?itok=9WXoxVD8"],
+    "price": 240000,
+    "url": "https://www.remax-tresamigos-cr.com/property/horse-lovers-dream"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Bella Vista Ocean View Condo",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Dining%20Area_0.jpg?itok=Q-gTrXeT"],
+    "price": 242000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bella-vista-ocean-view-condo"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Casa Palapa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN6965.JPG?itok=BYsnhC6P"],
+    "price": 245000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-palapa"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Pacifico L1014",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Terrace-25b004ce279729.jpg?itok=GaRMRzF7"],
+    "price": 247000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l1014"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Sombras 201",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pool-4.jpg?itok=HDrNtKMq"],
+    "price": 247000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sombras-201"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Palo Alto Lot 32",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/64_IMGP0232.JPG?itok=H__Xt3oi"],
+    "price": 249000,
+    "url": "https://www.remax-tresamigos-cr.com/property/palo-alto-lot-32"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Dzugalo Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN1367.JPG?itok=BYc46PcT"],
+    "price": 249000,
+    "url": "https://www.remax-tresamigos-cr.com/property/dzugalo-lot"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Sombras 501",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Sombras%20501%20YT.jpg?itok=mVXKTjy1"],
+    "price": 249000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sombras-501"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Serendipity Ocean View Lot 12  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%2012%20-%201.jpg?itok=1-qWjq_3"],
+    "price": 249000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-12-lomas-del-mar"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Casa Molina",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Copy%20of%20DSC00912.JPG?itok=4y5nIESX"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-molina"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Serendipity Ocean View Lots  Lot 5 &amp; 6  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%205%20-%201.jpg?itok=9N5l77B4"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lots-lot-5-6-lomas-del-mar"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Pacifico L 1206",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%201206%20003.jpg?itok=n52F3nnQ"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-1206"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Serendipity Ocean View  Lot 1  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_29.jpg?itok=ANhBuxvG"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-1-lomas-del-mar"
+  }, {
+    "uid": "remax_property_18",
+    "name": "6 acre hobby farm parcel",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/93_DSCN3122.JPG?itok=T7Er4JIv"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/6-acre-hobby-farm-parcel"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Ocean View Lot Mar Vista Estates  20  1.4 acre  Click to see...",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/173_Steve%20web.JPG?itok=ulAWxJyg"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocean-view-lot-mar-vista-estates-20-14-acre-click-see-video"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Mar Vista 7",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mar%20Vista%207-17.jpg?itok=C6-OZCUc"],
+    "price": 250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mar-vista-7"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Sombras #104 - 3 Bed/2 Bath",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Sombras104.26.jpg?itok=H6900HtW"],
+    "price": 254000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sombras-104-3-bed2-bath"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Pacifico L208",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Terrace%20View-1.jpg?itok=GevsH5hG"],
+    "price": 255000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l208"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Bella Vista Ocean View Condo. Owner Financing Available!",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/View%204.jpg?itok=BUX2q_fj"],
+    "price": 255000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bella-vista-ocean-view-condo-owner-financing-available"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Los Retoños A",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7908.JPG?itok=ZdbBVgFS"],
+    "price": 258000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-reto%C3%B1os"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Pacifico L 1011",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacfiico%20L%201011%20001.jpg?itok=8PA_OZIJ"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-1011"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Monte Bello Lot 38",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/MB38-10.jpg?itok=1Uy-ts1m"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-38"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Pacifico L 214",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20214%20s%20001.jpg?itok=xjbVNf_h"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-214"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Pacifico L1004",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/3%20%283%29.jpg?itok=wz6Ys5Py"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l1004"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Mar Vista Lot 24",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mar%20Vista%20Lot%2024%20resize%201.jpg?itok=jQJEcoTS"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mar-vista-lot-24"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Hermosa Heights Lot 63",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Heights%20Lot%2063%20s%20001.jpg?itok=EEKMViFJ"],
+    "price": 259000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-lot-63"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Pacifico L 1007",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%201007%20s%20001.jpg?itok=Zccble4t"],
+    "price": 259900,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-1007"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Pacifico L 309",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20309%20s%20001.jpg?itok=VWB0nq9F"],
+    "price": 265000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-309"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Casa Michnal",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Michnal%20YT.jpg?itok=Egjsb0sl"],
+    "price": 265000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-michnal"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Vista Del Pacifico 28B",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/64_IMGP0320.JPG?itok=nDYapesq"],
+    "price": 270000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-del-pacifico-28b"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Pacifico L 809",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L809%20001.jpg?itok=09Jqpc9S"],
+    "price": 274900,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-809"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Hermosa del Mar 2-1B",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HDM2_1.jpg?itok=Hxpfy2H9"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-2-1b"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Commercial Lot 10 minutes to Airport",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/45_Prime%20location%20commercial%20lotweb.JPG?itok=K6hctBE4"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/commercial-lot-10-minutes-airport"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Restaurant Opportunity Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/El%20Quijote-1.jpg?itok=j_XOiXid"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/restaurant-opportunity-playa-hermosa"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Pacifico L 804",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L804%20s%20001.jpg?itok=L5ESh755"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-804"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Vista Ocean View Lots",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/222_Picture%20046.JPG?itok=ef2JW1zM"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ocean-view-lots"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Monte Bello Ocean View Lots",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/73_monte%20bello%20small00002.JPG?itok=hplNyD2y"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-ocean-view-lots"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Serendipity Ocean View Lot 2    Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%202%20-%201.jpg?itok=aD32Yhd8"],
+    "price": 275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-2-lomas-del-mar"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Coco Sunset Hills 47",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/CSH%2047-1.jpg?itok=Vw_6WMdr"],
+    "price": 279000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-sunset-hills-47"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Playas del Coco, Habitat Magico",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Habitat%20Magico-5.jpg?itok=jeT2hQlb"],
+    "price": 279000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playas-del-coco-habitat-magico"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Pacifico L 407",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20407%20001.jpg?itok=FrEL0O9q"],
+    "price": 279000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-407"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Casa La Mariposa",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/La%20Mariposa-6.jpg?itok=yVo_zqBa"],
+    "price": 279000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-la-mariposa"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Casa Mireya",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_1812-min_0.JPG?itok=gY_QP09Z"],
+    "price": 280000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-mireya"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Corona del Mar B6",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1947_58_CoronaDelMarHR-70-min.JPG?itok=EESPY0Dg"],
+    "price": 280000,
+    "url": "https://www.remax-tresamigos-cr.com/property/corona-del-mar-b6"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Hermosa del Mar 1-3C",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1893_52_IMG_7512.JPG?itok=JCaiqYQj"],
+    "price": 285000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-1-3c"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Pacifico C404",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/C404%20YT%20.jpg?itok=55pwI_Cq"],
+    "price": 285000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c404"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Ocean Breeze 9",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/OB%20-%201.jpg?itok=0ccbue5K"],
+    "price": 285000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocean-breeze-9"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Pacifico C401",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/C401%20YT%20.jpg?itok=RK52iTc0"],
+    "price": 285000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c401"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Guayabo 138 Acres  Click to see video",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/174_Guayabo%20017.JPG?itok=udUAxrnj"],
+    "price": 288000,
+    "url": "https://www.remax-tresamigos-cr.com/property/guayabo-138-acres-click-see-video"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Pacifico C 304",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C%20304%20small%201.jpg?itok=sgHCo9Cc"],
+    "price": 289000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-304"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Pacifico C108",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20C108%20-%20YT.jpg?itok=ukQLQYyN"],
+    "price": 289000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c108"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Pacifico C 406",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/C406%20YT%20.jpg?itok=VCkc_hXk"],
+    "price": 289000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c-406"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Pacifico Clubside 508",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Slide1.JPG?itok=jOnHMlJs"],
+    "price": 295000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-clubside-508-0"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Pacifico Clubside 508",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC00303%20copy-min_0.jpg?itok=eKPH09Qg"],
+    "price": 295000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-clubside-508"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Coco Lot - Easy Build - Price Drop",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2_0.JPG?itok=Qem4_JmS"],
+    "price": 295000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-lot-easy-build-price-drop"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Hermosa del Mar 2-1C",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HdM%202-1C-10_0.jpg?itok=gLg4sC5l"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-2-1c"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Monte Bello Lot 36",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%2036%20s%20001.jpg?itok=mpOFIk_j"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-36"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Villa Verde",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1771_29_Casa%20Bogdan%201.JPG?itok=uNf9sQTk"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-verde"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Casa Kahle",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Kahle-1.jpg?itok=sh8QO5I6"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-kahle"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Ocean Breeze Condo # 10",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN8761.JPG?itok=nBWhEDJf"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocean-breeze-condo-10"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Monte Bello Lot 3",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%203%20social.jpg?itok=1D_kmLxB"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-3"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Ocean View Lot 213 Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1885_55_3.JPG?itok=Dxfm-Rx1"],
+    "price": 299000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocean-view-lot-213-lomas-del-mar"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Salvador Lot",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/84_IMGP0694.JPG?itok=ruTQ-YSu"],
+    "price": 299900,
+    "url": "https://www.remax-tresamigos-cr.com/property/salvador-lot"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Casa Amanecer",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Amanecer%20YT.jpg?itok=NvgtXQOx"],
+    "price": 299999,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-amanecer"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Ladera del Mar, Monte Vista #8",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_7.jpg?itok=0EI__1t3"],
+    "price": 309500,
+    "url": "https://www.remax-tresamigos-cr.com/property/ladera-del-mar-monte-vista-8"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Hermosa del Mar 2-3A",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1894_124_IMG_7512.JPG?itok=Lq77QvnV"],
+    "price": 310000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-2-3a"
+  }, {
+    "uid": "remax_property_26",
+    "name": "LdM Lot 131",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lomas%20131-35.jpg?itok=qxOUGAG8"],
+    "price": 310000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ldm-lot-131"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Casa Los Altos del Cacique #103",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7274_1.JPG?itok=GA3Oqvx6"],
+    "price": 315000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-los-altos-del-cacique-103"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Vista Ridge Hilltop Villa",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DiningKitchen1a.jpg?itok=-YEwBG1-"],
+    "price": 315000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-ridge-hilltop-villa"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Casa Preston",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/245_40.JPG?itok=Pdf8PHH9"],
+    "price": 319000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-preston"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Baywatch View Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/01_4.jpg?itok=pTaHKPaD"],
+    "price": 319000,
+    "url": "https://www.remax-tresamigos-cr.com/property/baywatch-view-lot"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Sol Y Mar 4B",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2016-01-14_11-48-25.jpg?itok=LOk69UcF"],
+    "price": 319000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sol-y-mar-4b"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Alta Vista  Killer View Lot  JUST REDUCED",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/126_DSC02438%20web.JPG?itok=6VzXrIa7"],
+    "price": 319000,
+    "url": "https://www.remax-tresamigos-cr.com/property/alta-vista-killer-view-lot-just-reduced"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Hermosa Commercial lot on main road",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/default_images/noimage.gif?itok=ylryoEGs"],
+    "price": 320000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-commercial-lot-main-road"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Pacifico C408 Reduce by $100,000",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Dining%20Area%201_2.jpg?itok=xGsG9Fur"],
+    "price": 320000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-c408-reduce-100000"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Panama Ocean View Lot",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/222_Use%20-%20Ocean%20view%20from%20lot.JPG?itok=r7h3O429"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/panama-ocean-view-lot"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Pacifico TH 101",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20TH%20101%20001.jpg?itok=RMQk4zbF"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-th-101"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Serendipity Ocean View  Lot 4  Lomas Del Mar",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lot%204%20-%201.jpg?itok=_uNoqOwT"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/serendipity-ocean-view-lot-4-lomas-del-mar"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Hermosa Montana Lot #1",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/208_9.JPG?itok=K26JSvnP"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-montana-lot-1-0"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Cacique Lot 42 House",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cacique%20Lot%2042%20House%20s%20002.jpg?itok=PyrbdEfw"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-42-house"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Montebello Lot #11",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSCN7850.JPG?itok=AsTKY-fF"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/montebello-lot-11"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Pacifico Townhome TH 201",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Exterior%203-min.png?itok=4SIOFomR"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-townhome-th-201"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Ocean front lot Playa Junquillal  See Video",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/177_New%20Panoramic3.JPG?itok=02wEUeiy"],
+    "price": 325000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocean-front-lot-playa-junquillal-see-video"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Casa Nido",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Nido%20YT_1.jpg?itok=_01cEPDQ"],
+    "price": 329000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-nido"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Pacifico L806",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20806%20001.jpg?itok=FLpUvYRP"],
+    "price": 329000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l806"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Casa del Puente",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/a.jpg?itok=k-ximval"],
+    "price": 330000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-del-puente"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Finca La Germania",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG-2073.JPG?itok=V3EHnS3u"],
+    "price": 335000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-la-germania"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Beach Apartment Casa Marina",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1896_34_DSCN4973.JPG?itok=Et5aldYl"],
+    "price": 335000,
+    "url": "https://www.remax-tresamigos-cr.com/property/beach-apartment-casa-marina"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Casa Palmares Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/041.jpg?itok=rM3VrvY9"],
+    "price": 335000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-palmares-playa-hermosa"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Lomas Del Mar Casa Dunn",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1836_216_Casa%20Dunn%20YT%20%281%29.JPG?itok=LrPazA5n"],
+    "price": 338000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-casa-dunn"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Las Briasa Playa Hermosa 3.2 UNDER CONTRACT!",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Las%20Brisas-1.jpg?itok=-KmDu0XZ"],
+    "price": 338000,
+    "url": "https://www.remax-tresamigos-cr.com/property/las-briasa-playa-hermosa-32-under-contract"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Hermosa Heights  Rock Star Lot  SEE VIDEO REDUCED BY $100,000",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/67_Bonnie%20007%20web.JPG?itok=pHYi5L_N"],
+    "price": 339000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-heights-rock-star-lot-see-video-reduced-100000"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Pacifico L 301",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20301%20002.jpg?itok=qt8P-UAM"],
+    "price": 339000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-301"
+  }, {
+    "uid": "remax_property_8",
+    "name": "El Oasis 355,356,357",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/El%20Oasis%20355%2C%2056%2C%2057%20001.jpg?itok=Sn2cdHUD"],
+    "price": 339000,
+    "url": "https://www.remax-tresamigos-cr.com/property/el-oasis-355356357"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Pacifico L 305",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20305%20001.jpg?itok=5tsdYAle"],
+    "price": 339000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-305"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Pacifico L611",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/L611%20YT.jpg?itok=zjE7kCj3"],
+    "price": 345000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l611"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Pacifico L 615",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L615%20Social.jpg?itok=wSWCZv6p"],
+    "price": 349000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-615"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Pacifico Lot 48",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2048%20-%20YT.jpg?itok=l8yS9Qrx"],
+    "price": 349000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-48"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Pacifico L 306",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20L%20306%20007.jpg?itok=CLU5XD5g"],
+    "price": 349000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-l-306"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Above the Beach at Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Above%20the%20Beach%20Lot%20in%20Playa%20Hermosa%20r%201.jpg?itok=PR-30Wz9"],
+    "price": 349000,
+    "url": "https://www.remax-tresamigos-cr.com/property/above-beach-playa-hermosa"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Alta Vista  - Main Road frontage",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/9_pics%20010.JPG?itok=gypMe6uW"],
+    "price": 350000,
+    "url": "https://www.remax-tresamigos-cr.com/property/alta-vista-main-road-frontage"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Casa Luna Liberia",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/CasaLunaLiberia-33.jpg?itok=26RV7U0I"],
+    "price": 350000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-luna-liberia"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Bahia Pez Vela Villa #14 - Villa Paraiso $350,000",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/villa-14-10-ret-small-150x150.jpg?itok=ZISf0I8Y"],
+    "price": 350000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bahia-pez-vela-villa-14-villa-paraiso-350000"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Papagayo 1ha Ocean View Lot",
+    "location": {
+      "name": "Papagayo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_10.jpg?itok=MzRZ7IT6"],
+    "price": 350000,
+    "url": "https://www.remax-tresamigos-cr.com/property/papagayo-1ha-ocean-view-lot"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Casa Pacific Breeze No.1",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/PHOTO-2019-02-26-16-07-30_1.jpg?itok=bTFhj8RL"],
+    "price": 359000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-pacific-breeze-no1"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Monte Paraiso Lot 15",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/226_Road%20infront%20of%20Lot.JPG?itok=aHeY1KId"],
+    "price": 359000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-15"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Hermosa del Mar 1-5C",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HdM%201-5C%20YT.jpg?itok=yuVnKyCy"],
+    "price": 365000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-1-5c"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Kokomo Lot",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/33_005%20-%20Copy.JPG?itok=mCDxKvQA"],
+    "price": 369000,
+    "url": "https://www.remax-tresamigos-cr.com/property/kokomo-lot"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Pacifico Townhome 203",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20TH%20203%20001.jpg?itok=MnBri3iI"],
+    "price": 369000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-townhome-203"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Graceland - Casa Priscilla Walk to Beach Luxury 4 bed Villa  See...",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/102_DSCN1500.JPG?itok=7BX7yOCi"],
+    "price": 369000,
+    "url": "https://www.remax-tresamigos-cr.com/property/graceland-casa-priscilla-walk-beach-luxury-4-bed-villa-see-video"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Casa de Bienestar",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/00_0.jpg?itok=SgmbBob-"],
+    "price": 375000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-de-bienestar"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Monte Bello Lot 30",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%2030%20001.jpg?itok=7JSjHEvZ"],
+    "price": 375000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-30"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Hermosa Montana Lot 8",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/193_Hermosa%20Montana%20Lot%208%20s%20001.JPG?itok=L7s2fhEs"],
+    "price": 375000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-montana-lot-8"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Office Building Downtown Playas Del Coco",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/48_SAM_5386.JPG?itok=Lh8jZpim"],
+    "price": 375000,
+    "url": "https://www.remax-tresamigos-cr.com/property/office-building-downtown-playas-del-coco"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Bahia Pez Vela #21 **Price Reduced**",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/238_DSC00050.JPG?itok=CZq2YSy4"],
+    "price": 379000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bahia-pez-vela-21-price-reduced"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Pacifico Townhome 204",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/TH%20201%20s%20001.jpg?itok=FMBeRZXR"],
+    "price": 379000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-townhome-204"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Casa Mañana",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Manana-14.jpg?itok=ppitOQrp"],
+    "price": 380000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-ma%C3%B1ana"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Finca La Justina",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Finca%20La%20Justina.jpg?itok=pVDqrdv_"],
+    "price": 385000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-la-justina"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Ocotal Serenity Lot",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Aerial%201.jpg?itok=FIB6OoL7"],
+    "price": 395000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ocotal-serenity-lot"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Coco Commercial Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2016-07-26_11-38-02.jpg?itok=oAiSqDv3"],
+    "price": 395000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-commercial-lot"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Pacifico Heights 10, Playas del Coco",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Heights%2010-12.jpg?itok=lyPU2j0R"],
+    "price": 395000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-heights-10-playas-del-coco"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Monte Bello Lot 25",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%2025-14.jpg?itok=-q-nbdBe"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-25"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Monte Bello Lot 26",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%2026%20s%20001.jpg?itok=LdoajVWJ"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-26"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Casa Zen Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Zen%20Playa%20Hermosa%20s%20001.jpg?itok=D8pTKVZV"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-zen-playa-hermosa"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Playas Del Coco Apartment Complex  SEE VIDEO",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/138_New%20Panoramic19.JPG?itok=MFZ_w9xk"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playas-del-coco-apartment-complex-see-video"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Coco Gardens Duplex",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Gardens%20Duplex%20s%20001.jpg?itok=4qC_8Y2P"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-gardens-duplex"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Casa La Canta Rana",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20La%20Canta%20Rana%20small%201.jpg?itok=hAlLS6Ol"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-la-canta-rana"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Sardinal Farm with 4 homes",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Peter%27s%20Farm-16.jpg?itok=hfK-Drj3"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sardinal-farm-4-homes"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Coco Development Land",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cespedes%20Finca%20Google%20Earth.jpg?itok=ECpQO3_a"],
+    "price": 399000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-development-land"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Ranchitos Ridge 13, Ladera del Mar",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2_6.jpg?itok=zlhOglkq"],
+    "price": 399500,
+    "url": "https://www.remax-tresamigos-cr.com/property/ranchitos-ridge-13-ladera-del-mar"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Casa Viviendo",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Viviendo-11.jpg?itok=igQA9vXO"],
+    "price": 399900,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-viviendo"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Hermosa-Coco Ridge Ocean View Development Property",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/247_Hermosa-Coco%20Ridge%20Development%20Lots%20maps%20small%201.JPG?itok=tKzIvJq4"],
+    "price": 400000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-coco-ridge-ocean-view-development-property"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Monte Paraiso Lot  3A  See video",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/181_photos%20Feb%2029%202008%20020.JPG?itok=FuSMlAp9"],
+    "price": 400000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-paraiso-lot-3a-see-video"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Graceland Love Me Tender",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Aerial%20View.jpg?itok=aT_5zAdz"],
+    "price": 425000,
+    "url": "https://www.remax-tresamigos-cr.com/property/graceland-love-me-tender"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Mariners Point B1",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mariner%27s%20Point%20B1%20panorama%20small.jpg?itok=bmMC86eY"],
+    "price": 449000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mariners-point-b1"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Bay Point 6",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Baypoint%206%20001.jpg?itok=dqxNszZi"],
+    "price": 449000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bay-point-6"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Lomas Del Mar PG-1 Development lots",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1796_43_4.JPG?itok=Av12YraC"],
+    "price": 450000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-pg-1-development-lots"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Hacienda Del Mar  ROCK STAR LOTS See Video",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/174_DSC02384.JPG?itok=MBz4uGcF"],
+    "price": 450000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hacienda-del-mar-rock-star-lots-see-video"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Casa Rancho Rey",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20107-10.jpg?itok=Db9wu4KY"],
+    "price": 454895,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-rancho-rey"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Mariner’s Point D4",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mariner%27s%20Point%20D4%20s%20001.jpg?itok=1LaK2R3-"],
+    "price": 474900,
+    "url": "https://www.remax-tresamigos-cr.com/property/mariner%E2%80%99s-point-d4"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Monte Bello Lot 40",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%2040%20s%20001.jpg?itok=G3RSyOXZ"],
+    "price": 475000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-40"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Casa del Papagayo",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20del%20Papagayo%20001.jpg?itok=qddoNZlZ"],
+    "price": 479000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-del-papagayo"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Graceland Costa Rica",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Jailhouse%20Rock%20%202_0.jpg?itok=bYGOqsFW"],
+    "price": 485000,
+    "url": "https://www.remax-tresamigos-cr.com/property/graceland-costa-rica"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Bay Point  9  Just reduced  See Video",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_3.jpg?itok=zbErG9cn"],
+    "price": 485000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bay-point-9-just-reduced-see-video"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Villa Tranquila – Vista Ridge G&amp;CC",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Tranquila%2045.jpg?itok=UBNiE-Fi"],
+    "price": 485000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-tranquila-%E2%80%93-vista-ridge-gcc"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Mariner's Point A2",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Dining.jpg?itok=a42Y7gJq"],
+    "price": 485000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mariners-point-a2"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Casa Guanacaste",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Guanacaste%20001.jpg?itok=fB0Iq8Q5"],
+    "price": 495000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-guanacaste"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Corona del Mar Ocean View condo B7",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1948_182_CoronaDelMarHR-36-min.JPG?itok=x5QiuiH4"],
+    "price": 495000,
+    "url": "https://www.remax-tresamigos-cr.com/property/corona-del-mar-ocean-view-condo-b7"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Bahia Pez Vela 34",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Bahia%20Pez%20Vela%2034%20001.jpg?itok=nHVKFja6"],
+    "price": 499000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bahia-pez-vela-34"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Villa Calypso Vistas Del Pacifico Just Reduced!",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Outdoor%20Area%202.jpg?itok=yMblMUBU"],
+    "price": 499000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-calypso-vistas-del-pacifico-just-reduced"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Finca Vainilla Development Property",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/115_IMG_0105.JPG?itok=Nvm0sHm6"],
+    "price": 500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-vainilla-development-property"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Casa Ali – Vista Ridge Golf Club",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/CasaAli-43.jpg?itok=9zElc7XE"],
+    "price": 510000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-ali-%E2%80%93-vista-ridge-golf-club"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Vista Del Pacifico Custom Home",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/001.jpg?itok=iaxqmnYe"],
+    "price": 524000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-del-pacifico-custom-home"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Hermosa del Mar 1-6A",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/HermosadelMar16A-54.jpg?itok=xGC0fzXM"],
+    "price": 525000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-1-6a"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Casa Ocotal Serenity",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1880_245_10-min.JPG?itok=otCfdJsB"],
+    "price": 525000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-ocotal-serenity"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Pacifico Lot 119 House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20119%20House%20001.jpg?itok=Xt05qR8W"],
+    "price": 540000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-119-house"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Pacifico Lot 116 Casa Jardin",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20116%20Casa%20Jardin%20s%20001.jpg?itok=MlQ5HXyw"],
+    "price": 549000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-116-casa-jardin"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Haras Del Mar Equestrian Center",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_2067%20%281%29.jpg?itok=SsVaRvfU"],
+    "price": 549000,
+    "url": "https://www.remax-tresamigos-cr.com/property/haras-del-mar-equestrian-center"
+  }, {
+    "uid": "remax_property_28",
+    "name": "La Mariposa Escondida",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/192_Snapshot%201%20%282-22-2015%209-22%20AM%29.JPG?itok=sai-uj04"],
+    "price": 549000,
+    "url": "https://www.remax-tresamigos-cr.com/property/la-mariposa-escondida"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Villa Cuervo Vistas del Pacifico",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Cuervo%20VDP%20001.jpg?itok=4ImC3uF5"],
+    "price": 549000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-cuervo-vistas-del-pacifico"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Sol y Mar 3B",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1837_75_SolYMar3BLR-3.JPG?itok=8LuRnqBd"],
+    "price": 565000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sol-y-mar-3b"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Villa Buena Vista Playa Ocotal",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cliffside%205%20-%20Copy.jpg?itok=kV_LzgRL"],
+    "price": 565000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-buena-vista-playa-ocotal"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Sol y Mar 3A",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/solymar%203a%201.jpg?itok=4rGAB-hq"],
+    "price": 575000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sol-y-mar-3a"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Bay Point  Condo  7 See the video",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Baypoint%207%20small%20002.jpg?itok=I26G0-L3"],
+    "price": 575000,
+    "url": "https://www.remax-tresamigos-cr.com/property/bay-point-condo-7-see-video"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Villa Las Brisas Cacique",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cacique%20View%201.jpg?itok=IQRylOPV"],
+    "price": 595000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-las-brisas-cacique"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Casa Delfines",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Delfin-1.jpg?itok=65sWDe_3"],
+    "price": 595000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-delfines"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Pacifico Lot 120 Sanctuary House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20120%20Sanctuary%20House%20%20002.jpg?itok=aZWnqi9s"],
+    "price": 599000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-120-sanctuary-house"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Monte Bello Casa Buena Vista",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Casa%20Buena%20Vista%20001.jpg?itok=ZnXirotc"],
+    "price": 599000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-casa-buena-vista"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Villa Serena Pacifico Lot 89",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2089%20Casa%20Serena%20s%20001.jpg?itok=m93WTzvg"],
+    "price": 599000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-serena-pacifico-lot-89"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Coco Downtown Commercial Lot",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Downtown%20Commercial%20Lot%20next%20to%20Coco%20Beach%20Hotel%20s%20021.jpg?itok=AlKrODiO"],
+    "price": 600000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-downtown-commercial-lot-0"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Casa 92 Pacifico",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1%20-%20Pacifico%20Casa%2092%20YT.jpg?itok=GCANMgXz"],
+    "price": 609000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-92-pacifico"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Casa Magee Laguna Vista",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Magee%20Laguna%20Vista%20s%20001.jpg?itok=YqBfS_07"],
+    "price": 619000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-magee-laguna-vista"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Sol Y Mar 3C - Live on the Beach in Playa Hermosa",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Sol%20y%20Mar-8.jpg?itok=gwOEH60o"],
+    "price": 620000,
+    "url": "https://www.remax-tresamigos-cr.com/property/sol-y-mar-3c-live-beach-playa-hermosa"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Villa las Nubes",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Heights%20Lot%2070%20House%20s%20001.jpg?itok=7Ifqz5vB"],
+    "price": 649000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-las-nubes"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Apartment Bolimar",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/102_DSCN3873.JPG?itok=S6rIK3jY"],
+    "price": 675000,
+    "url": "https://www.remax-tresamigos-cr.com/property/apartment-bolimar"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Casa Del Encanto Hermosa Heights Lot 41",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Heights%20Lot%2041%20Casa%20del%20Encanto%20001.jpg?itok=yyQ8LXTf"],
+    "price": 675000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-del-encanto-hermosa-heights-lot-41"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Villa Romy",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Romy%201.jpg?itok=jcrk1nuv"],
+    "price": 690000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-romy"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Mariners Point C1",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mariner%27s%20Point%20C1%20small%20001.jpg?itok=mDQd2WYs"],
+    "price": 695000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mariners-point-c1"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Villa Vista Matapalo",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_0.jpg?itok=Wz9WNO1w"],
+    "price": 695000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-vista-matapalo"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Hermosa Del Mar Penthouse 2-7B",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hermosa%20Del%20Mar-4.jpg?itok=rJF8YMIK"],
+    "price": 699000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-del-mar-penthouse-2-7b"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Mar Vista Lot 17 Spec Home",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Marvista%20Lot%2017%20Spec%20House%20001.jpg?itok=RxA0a0rX"],
+    "price": 699000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mar-vista-lot-17-spec-home"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Vista Cacique",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Vista%20Cacique%20Aerial%20s%20001.jpg?itok=b06JGN51"],
+    "price": 699000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-cacique"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Pacifico Lot 114",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20114%20House%20s%20001_0.jpg?itok=bzU-GLTK"],
+    "price": 739000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-114"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Pacifico Lot 90 House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2090%20House%20001.jpg?itok=HZzMTx_i"],
+    "price": 740000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-90-house"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Casa Mango Dulce",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Mango%20Dulce%20FB%20.png?itok=k5JedKZw"],
+    "price": 749000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-mango-dulce"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Villa Las Brisas Vistas del Pacifico",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Las%20Brisas%20Vistas%20del%20Pacifico%20s%20001.jpg?itok=qxj7L3fx"],
+    "price": 749000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-las-brisas-vistas-del-pacifico"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Casa Oso Grande",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Oso%20Grande%20Vistas%20del%20Pacifico%20s%20125.jpg?itok=Yd2nIAcQ"],
+    "price": 749000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-oso-grande"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Villa Tranquilidad a Altas Vistas",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Hastie-2-min.jpg?itok=GZVIFQ8p"],
+    "price": 749000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-tranquilidad-altas-vistas"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Casa Gerda 4 bed Ocean View Villa",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2016-07-27_15-46-53.jpg?itok=uFh7stch"],
+    "price": 750000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-gerda-4-bed-ocean-view-villa"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Las Trancas Development",
+    "location": {
+      "name": "Papagayo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/185_Picture6.JPG?itok=AChdGr_G"],
+    "price": 750000,
+    "url": "https://www.remax-tresamigos-cr.com/property/las-trancas-development"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Hotel Luna de Mata de Limón",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/22406034_2058438384403627_1647842975819599984_n.jpg?itok=TwoB4jnM"],
+    "price": 750000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hotel-luna-de-mata-de-lim%C3%B3n"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Hotel Luna",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/default_images/noimage.gif?itok=ylryoEGs"],
+    "price": 750000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hotel-luna"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Lomas Del Mar PG 3 Development Lot",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1797_185_4.JPG?itok=FjUWt41v"],
+    "price": 755000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-del-mar-pg-3-development-lot"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Lighthouse Monte Paraiso SEE VIDEO",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lighthouse%20Monteparaiso%20small%20001.jpg?itok=D_MZOuMv"],
+    "price": 785000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lighthouse-monte-paraiso-see-video"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Self-Storage Business",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Mini%20Storage-11.jpg?itok=gtiM7MDh"],
+    "price": 785000,
+    "url": "https://www.remax-tresamigos-cr.com/property/self-storage-business"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Villa Vargas",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Vargas-10.jpg?itok=bjM_ynQO"],
+    "price": 795000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-vargas"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Villa Azure Ocotal",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Azure%20Ocotal%20s%20001.jpg?itok=ajl6gTTI"],
+    "price": 795000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-azure-ocotal"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Villa Paradiso del Mar - Playa Hermosa Beach House Costa Rica",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Paradiso%20del%20Mar%20Monte%20Paraiso%20s%20001.jpg?itok=ggKdECE9"],
+    "price": 799000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-paradiso-del-mar-playa-hermosa-beach-house-costa-rica"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Villa Encanta, Playa Del Coco",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/3f50478e-8ace-436b-ba06-9cc0f4433046.JPG?itok=5q7LIfTH"],
+    "price": 800000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-encanta-playa-del-coco"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Casa Bella Mia",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/004%20-%20Ladera%2019.jpg?itok=Jo2sy2zm"],
+    "price": 820000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-bella-mia"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Pacifico Villa Lot 6",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1%20-%20Pac%20Lot%206%20%233%20compressed.jpg?itok=MDgabq63"],
+    "price": 839000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-villa-lot-6"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Casa Buena Vista Cacique",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Buena%20Vista%20Cacique%20s%20001.jpg?itok=MQf5tWvd"],
+    "price": 840000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-buena-vista-cacique"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Monte Bello Lot 12",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Monte%20Bello%20Lot%2012%20Spec%20House%20001.jpg?itok=DBid0RpQ"],
+    "price": 849000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monte-bello-lot-12"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Ventanas de Dios (God's Windows)",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_0835_0.JPG?itok=rrltFmso"],
+    "price": 849000,
+    "url": "https://www.remax-tresamigos-cr.com/property/ventanas-de-dios-gods-windows"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Pacifico Lot 88 Spec House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%208%20Spec%20House%20001.jpg?itok=8_BTkoOY"],
+    "price": 849000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-88-spec-house"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Casa Puesta del Sol Palo Alto 15",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Palo%20Alto%20Lot%2015%20Casa%20Puesta%20del%20Sol%20s%20001.jpg?itok=J-OvicM1"],
+    "price": 850000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-puesta-del-sol-palo-alto-15"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Pacifico Lot 8 Spec House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%208%20Spec%20Home%20001.jpg?itok=0I9EqvbD"],
+    "price": 850000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-8-spec-house"
+  }, {
+    "uid": "remax_property_32",
+    "name": "Papagayo Rumy Lot",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1949_92_Papagayo%20Lot%202-min.JPG?itok=FBCaS8MG"],
+    "price": 850000,
+    "url": "https://www.remax-tresamigos-cr.com/property/papagayo-rumy-lot"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Casa Amarilla",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Monica%20Drone%20shot%201.jpg?itok=rw6r3FhQ"],
+    "price": 875000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-amarilla"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Cactus Heights 3 bed Ocean View Villa",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_11.jpg?itok=KD6LCUV0"],
+    "price": 889000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cactus-heights-3-bed-ocean-view-villa"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Hermosa Montana Lot 1",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/159_DSC02447.JPG?itok=IBkMOHOD"],
+    "price": 899000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-montana-lot-1"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Pacifico Lot 110 Villa Sirena",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%20110%20Villa%20Sirena%20s%20001.jpg?itok=K19d0xvv"],
+    "price": 925000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-110-villa-sirena"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Cacique Lot 113 House",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Cacique%20Lot%20113%20House%20s%20001.jpg?itok=_rZ4TBW5"],
+    "price": 925000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cacique-lot-113-house"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Rancho Rio Blanco - PRICE REDUCED BY 50%",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/109_Rio%20Blanco%202.JPG?itok=13ulj8xR"],
+    "price": 949000,
+    "url": "https://www.remax-tresamigos-cr.com/property/rancho-rio-blanco-price-reduced-50"
+  }, {
+    "uid": "remax_property_39",
+    "name": "73 HECTARE FARM",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2016-06-16_13-11-59.jpg?itok=1wjmUIqM"],
+    "price": 949000,
+    "url": "https://www.remax-tresamigos-cr.com/property/73-hectare-farm"
+  }, {
+    "uid": "remax_property_40",
+    "name": "Commercial Property on Main Street",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/CCP-20.jpg?itok=FGGZW43Z"],
+    "price": 950000,
+    "url": "https://www.remax-tresamigos-cr.com/property/commercial-property-main-street"
+  }, {
+    "uid": "remax_property_41",
+    "name": "Commercial Building Bar And Restaurant in Playa Hermosa Click to...",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/136_Sand%20Bar%20resize%203.JPG?itok=2G6xd7N2"],
+    "price": 990000,
+    "url": "https://www.remax-tresamigos-cr.com/property/commercial-building-bar-and-restaurant-playa-hermosa-click-see-video-just-reduced"
+  }, {
+    "uid": "remax_property_42",
+    "name": "Pacifico Lot 80 House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2080%20House%20Furnished%20s%20001.jpg?itok=StyXK542"],
+    "price": 995000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-80-house"
+  }, {
+    "uid": "remax_property_43",
+    "name": "Pacifico Lot 77 Casa Exotica",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2077%20House%20s%20001.jpg?itok=PYSQhdK1"],
+    "price": 995000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-77-casa-exotica"
+  }, {
+    "uid": "remax_property_44",
+    "name": "Casa Roco del Mar",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2078%20Casa%20Roco%20del%20Mar%20s%20001.jpg?itok=gJMnr6Wy"],
+    "price": 998000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-roco-del-mar"
+  }, {
+    "uid": "remax_property_0",
+    "name": "Pacifico Lot 53 Spec House",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2053%20Spec%20House%20001.jpg?itok=kyHF6Y2X"],
+    "price": 1249000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-lot-53-spec-house"
+  }, {
+    "uid": "remax_property_1",
+    "name": "Villa Cocobolo Monte Bell",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Villa%20Cocobolo%20Lot%2032%20s%20001.jpg?itok=yefoMEdW"],
+    "price": 1250000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-cocobolo-monte-bell"
+  }, {
+    "uid": "remax_property_2",
+    "name": "Coco Vista Pacifico Lot 69",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Lot%2069%20Coco%20Vista%20001.jpg?itok=e28dfQeO"],
+    "price": 1275000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-vista-pacifico-lot-69"
+  }, {
+    "uid": "remax_property_3",
+    "name": "Vista Royal Playa Ocotal",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/VistaRoyal-72.jpg?itok=K1735608"],
+    "price": 1290000,
+    "url": "https://www.remax-tresamigos-cr.com/property/vista-royal-playa-ocotal"
+  }, {
+    "uid": "remax_property_4",
+    "name": "Casa de los Sueños",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Sue%C3%B1os-10.jpg?itok=ziQaCmKk"],
+    "price": 1395000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-de-los-sue%C3%B1os"
+  }, {
+    "uid": "remax_property_5",
+    "name": "Villa Mexican pacifico",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1163900509.jpg?itok=AKUs7m6y"],
+    "price": 1395000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-mexican-pacifico"
+  }, {
+    "uid": "remax_property_6",
+    "name": "Villa Avalone",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Lamar%27s%20VDP%20-%201.jpg?itok=QzsJ2C47"],
+    "price": 1400000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-avalone"
+  }, {
+    "uid": "remax_property_7",
+    "name": "Casa La Joya Bella",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20La%20Bella%20Joya%20small%201.jpg?itok=eiihK27Y"],
+    "price": 1490000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-la-joya-bella"
+  }, {
+    "uid": "remax_property_8",
+    "name": "Casa Hermosa Montaña",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Hermosa%20Montana%20001.jpg?itok=LTSPgNAV"],
+    "price": 1495000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-hermosa-monta%C3%B1a"
+  }, {
+    "uid": "remax_property_9",
+    "name": "Papagayo Luxurious Retreat",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1%20Papagayo%20Luxurious%20Retreat%20YT_0.jpg?itok=SGK5GUyH"],
+    "price": 1495000,
+    "url": "https://www.remax-tresamigos-cr.com/property/papagayo-luxurious-retreat"
+  }, {
+    "uid": "remax_property_10",
+    "name": "Hermosa Montana",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/17_DSC00639.JPG?itok=Tlr2-0Gu"],
+    "price": 1500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hermosa-montana"
+  }, {
+    "uid": "remax_property_11",
+    "name": "Reserva Papagayo Ocean View Development Parcel",
+    "location": {
+      "name": "Papagayo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/DSC_9180.jpg?itok=Yf46sK3x"],
+    "price": 1500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/reserva-papagayo-ocean-view-development-parcel"
+  }, {
+    "uid": "remax_property_12",
+    "name": "Monkey Bar Development Lot SEE VIDEO",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/233_New%20Panoramic2%20web.JPG?itok=7j_-DTF7"],
+    "price": 1500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/monkey-bar-development-lot-see-video"
+  }, {
+    "uid": "remax_property_13",
+    "name": "Architectural Masterpiece",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Architectural%20Masterpiece%20small%20001%20-%20Copy.jpg?itok=K2ELptVf"],
+    "price": 1595000,
+    "url": "https://www.remax-tresamigos-cr.com/property/architectural-masterpiece"
+  }, {
+    "uid": "remax_property_14",
+    "name": "Finca Santa Maria",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/finca%20santa%20maria%20resize%20007.jpg?itok=ldhKztS0"],
+    "price": 1600000,
+    "url": "https://www.remax-tresamigos-cr.com/property/finca-santa-maria"
+  }, {
+    "uid": "remax_property_15",
+    "name": "Arenal Beach in Panama the Country",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/184_ArenalBeach.JPG?itok=LRN5lbz6"],
+    "price": 1680000,
+    "url": "https://www.remax-tresamigos-cr.com/property/arenal-beach-panama-country"
+  }, {
+    "uid": "remax_property_16",
+    "name": "Casa Pasmosa Monte Paraiso",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20Pasmosa%20s%20001.jpg?itok=NVEk0uQ8"],
+    "price": 1695000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-pasmosa-monte-paraiso"
+  }, {
+    "uid": "remax_property_17",
+    "name": "Casa La Mar",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Casa%20La%20Mar%20resize%201.jpg?itok=2_SWAC0V"],
+    "price": 1778000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-la-mar"
+  }, {
+    "uid": "remax_property_18",
+    "name": "Aguila del Mar",
+    "location": {
+      "name": "Playa Ocotal",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Aguila%20YT%20_0.jpg?itok=A08biILg"],
+    "price": 1780000,
+    "url": "https://www.remax-tresamigos-cr.com/property/aguila-del-mar"
+  }, {
+    "uid": "remax_property_19",
+    "name": "Villa RocMar",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Porte-coch%C3%A8re%201.jpg?itok=-rGuda3n"],
+    "price": 1795000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-rocmar"
+  }, {
+    "uid": "remax_property_20",
+    "name": "Pacifico Tuscan Villa",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Pacifico%20Tuscan%20Villa%20small%20001.jpg?itok=dMWXcLn_"],
+    "price": 1895000,
+    "url": "https://www.remax-tresamigos-cr.com/property/pacifico-tuscan-villa"
+  }, {
+    "uid": "remax_property_21",
+    "name": "Corridor to Playa Hermosa and Playas Del Coco Development Parcel",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/141_SAM_4898.JPG?itok=4cruKnjS"],
+    "price": 1950000,
+    "url": "https://www.remax-tresamigos-cr.com/property/corridor-playa-hermosa-and-playas-del-coco-development-parcel"
+  }, {
+    "uid": "remax_property_22",
+    "name": "Lomas Mountain &amp; Valley Development Parcel",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/142_1.JPG?itok=n8eYDWgU"],
+    "price": 2000000,
+    "url": "https://www.remax-tresamigos-cr.com/property/lomas-mountain-valley-development-parcel"
+  }, {
+    "uid": "remax_property_23",
+    "name": "Rincon de La Vieja Adventure Land",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/111_PC210016.JPG?itok=umYg5Dcv"],
+    "price": 2100000,
+    "url": "https://www.remax-tresamigos-cr.com/property/rincon-de-la-vieja-adventure-land"
+  }, {
+    "uid": "remax_property_24",
+    "name": "Canas Farm",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/timthumb.jpeg?itok=_zHJ-MMn"],
+    "price": 2200000,
+    "url": "https://www.remax-tresamigos-cr.com/property/canas-farm"
+  }, {
+    "uid": "remax_property_25",
+    "name": "Hacienda Del Mar  Luxury  Development View Lot 4  SEE VIDEO",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/19_HDM%20pic1%20web.JPG?itok=i6Hklbgp"],
+    "price": 2400000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hacienda-del-mar-luxury-development-view-lot-4-see-video"
+  }, {
+    "uid": "remax_property_26",
+    "name": "Cactus Heights Luxury Villa",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2015-10-26_13-48-59.jpg?itok=LU1Z352H"],
+    "price": 2499000,
+    "url": "https://www.remax-tresamigos-cr.com/property/cactus-heights-luxury-villa"
+  }, {
+    "uid": "remax_property_27",
+    "name": "Rio Canas Farm",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Drone%20Shot.png?itok=5yp6P0Gr"],
+    "price": 2500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/rio-canas-farm"
+  }, {
+    "uid": "remax_property_28",
+    "name": "Restaurante Hotel Costa del Sol",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/IMG_0150.JPG?itok=F5_wjP7Y"],
+    "price": 2500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/restaurante-hotel-costa-del-sol"
+  }, {
+    "uid": "remax_property_29",
+    "name": "Adventure Inn Hotel",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/home_hotel_front.jpg?itok=CzwVgCGu"],
+    "price": 2590000,
+    "url": "https://www.remax-tresamigos-cr.com/property/adventure-inn-hotel"
+  }, {
+    "uid": "remax_property_30",
+    "name": "Casa Aude",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/OR1%20FRONT.jpg?itok=liWV-xTk"],
+    "price": 2600000,
+    "url": "https://www.remax-tresamigos-cr.com/property/casa-aude"
+  }, {
+    "uid": "remax_property_31",
+    "name": "Colinas Papagayo at Hacienda Del Mar 13",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/1931_229_2.JPG?itok=of-YqqPx"],
+    "price": 2600000,
+    "url": "https://www.remax-tresamigos-cr.com/property/colinas-papagayo-hacienda-del-mar-13"
+  }, {
+    "uid": "remax_property_32",
+    "name": "One Hectare ( 2.47 acres) Ocean View Commercial Lot  SEE VIDEO",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/1_4.jpg?itok=jh9jTx0_"],
+    "price": 2695000,
+    "url": "https://www.remax-tresamigos-cr.com/property/one-hectare-247-acres-ocean-view-commercial-lot-see-video"
+  }, {
+    "uid": "remax_property_33",
+    "name": "Coco Village Ocean View Development Property",
+    "location": {
+      "name": "Playas del Coco",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Coco%20Development%20Property%20Satellite%201.jpg?itok=o8w403yx"],
+    "price": 2695000,
+    "url": "https://www.remax-tresamigos-cr.com/property/coco-village-ocean-view-development-property"
+  }, {
+    "uid": "remax_property_34",
+    "name": "Hacienda Del Mar Development Parcel 25",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/2_1.jpg?itok=tDiqWKq2"],
+    "price": 2700000,
+    "url": "https://www.remax-tresamigos-cr.com/property/hacienda-del-mar-development-parcel-25"
+  }, {
+    "uid": "remax_property_35",
+    "name": "Los Gauchos Ranch",
+    "location": {
+      "name": null,
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Los%20Gauchos%20Ranch%20Thumbnail.jpg?itok=kTA4o7y8"],
+    "price": 3500000,
+    "url": "https://www.remax-tresamigos-cr.com/property/los-gauchos-ranch"
+  }, {
+    "uid": "remax_property_36",
+    "name": "Playa Hermosa Ocean View Development",
+    "location": {
+      "name": "Playa Hermosa",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/223_DSCF1408r.JPG?itok=e3fsZA6H"],
+    "price": 3900000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-hermosa-ocean-view-development"
+  }, {
+    "uid": "remax_property_37",
+    "name": "Mango Papagayo Property",
+    "location": {
+      "name": "Papagayo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/14.jpg?itok=agF-usUZ"],
+    "price": 4885000,
+    "url": "https://www.remax-tresamigos-cr.com/property/mango-papagayo-property"
+  }, {
+    "uid": "remax_property_38",
+    "name": "Villa Durazno",
+    "location": {
+      "name": "Playa Panama",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/Michelle%20Casa%20001.JPG?itok=7O2Rk7xt"],
+    "price": 4950000,
+    "url": "https://www.remax-tresamigos-cr.com/property/villa-durazno"
+  }, {
+    "uid": "remax_property_39",
+    "name": "Playa Matapalo Development Parcel",
+    "location": {
+      "name": "Playa Matapalo",
+      "geo": null
+    },
+    "images": ["https://www.remax-tresamigos-cr.com/sites/default/files/styles/large/public/images/215_Matapalo%20resize%20018.JPG?itok=OIDJ-QdH"],
+    "price": 14000000,
+    "url": "https://www.remax-tresamigos-cr.com/property/playa-matapalo-development-parcel"
+  }],
+  "type": "real_estate",
+  "name": ["Real Estate", "Property", "Properties"]
+}

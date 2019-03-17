@@ -13,6 +13,9 @@
     "gulp-sass-glob": "^1.0.8",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
+    "js-search": "^1.4.2",
+    "preact": "^8.4.2",
+    "puppeteer": "^1.13.0",
     "through2": "^2.0.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
