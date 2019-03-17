@@ -21,40 +21,42 @@ class Search extends Component {
     return root
   }
 
-  createFacets(entityTypes) {
-    // Store all searchable values
-    const facets = []
+  normalizeEntity(entity, entityTypeNames) {
+    const normalizers = {
+      'phone': data => data && data.replace(/(\(*-*\)*\s*)/g, ''),
+    }
+    const copy = entity
 
-    // Loop through each entity and collect searchable values
-    return facets
+    Object.keys(entity).forEach(key => {
+      if (normalizers[key])
+        copy[key] = normalizers[key](copy[key])
+    })
+
+    copy.__entityType = entityTypeNames
+    return copy
   }
 
   normalizeEntities(entityTypes) {
-    const normalizers = {
-      'name': data => data,
-      'phone': data => data && data.replace(/(\(*-*\)*\s*)/g, ''),
-      'location.name': data => data
-    }
-    const data = {}
+    const entities = []
 
     entityTypes.forEach(entityType => {
-      // Create the index for this entity type
-      data[entityType.type] = data[entityType.type] || {}
-
-      // Fill the index with each unique entity
       entityType.data.forEach(entity => {
-        data[entityType.type][entity.uid] = entity
+        entities.push(this.normalizeEntity(entity, entityType.name))
       })
     })
 
-    return data
+    return entities
   }
 
   componentDidMount() {
     this
     .load()
     .then(entityTypes => {
-
+      this.search.addIndex('name')
+      this.search.addIndex(['location', 'name'])
+      this.search.addIndex('phone')
+      this.search.addIndex('__entityType')
+      this.search.addDocuments(this.normalizeEntities(entityTypes))
     })
   }
 
@@ -68,60 +70,17 @@ class Search extends Component {
       '/data/hon_charity.json',
       '/data/hon_interviewee.json',
       '/data/ves_graduate.json',
-      '/data/remax_property.json'
+      '/data/remax_property.json',
+      '/data/nosara_com_hotels.json',
+      '/data/nosara_com_restaurants.json'
     ].map(async data => {
       const response = await fetch(data)
       return await response.json()
     }))
   }
 
-  dedupe(arr, key) {
-    return arr.filter((o, i, arr) => arr.findIndex(t => t[key] === o[key]) === i)
-  }
-
-  itemFromUID(uid) {
-    const parts = uid.split(':')
-    const entityType = parts.shift()
-    const entityId = parts.shift()
-
-    return this.state.data[entityType][entityId]
-  }
-
   query(n) {
-    const multi = this.state.query.split(' ')
-    const occurences = {}
-    const results = []
-    
-    while (multi.length) {
-      const next = multi.shift()
-      results.push.apply(
-        results,
-        this
-        .state
-        .facets
-        .filter(f => f.key.toLowerCase().indexOf(next) > -1)
-      )
-    }
-
-    // Create a map to sort results by # of matches
-    results
-    .forEach(result => {
-      occurences[result.uid] = occurences[result.uid] || 0
-      occurences[result.uid]++
-    })
-
-    return (
-      this
-      .dedupe(
-        results
-        .filter(item => occurences[item.uid] > multi.length)
-        .sort((a, b) => occurences[b.uid] - occurences[a.uid]),
-        'uid'
-      )
-      .map(item => { console.log(item); return item; })
-      .slice(0, n)
-      .map(result => this.itemFromUID(result.uid))
-    )
+    return this.search.search(this.state.query).slice(0, n)
   }
 
   render() {

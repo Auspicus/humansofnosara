@@ -16,3 +16,7 @@
 node_modules/
 
 public/
+
+themes/humans-of-nosara/css
+themes/humans-of-nosara/js
+themes/humans-of-nosara/data

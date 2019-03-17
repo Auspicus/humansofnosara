@@ -29,23 +29,27 @@
 // }
 
 module.exports = {
-  sn_property: {
-    /**
-     * Type of source
-     */
-    type: 'crawler',
+  // sn_property: {
+  //   /**
+  //    * Type of source
+  //    */
+  //   type: 'crawler',
 
-    /**
-     * Type of entity
-     */
-    entity_type: 'real_estate',
-    name: ['Real Estate', 'Property', 'Properties'],
+  //   /**
+  //    * Type of entity
+  //    */
+  //   entity_type: 'real_estate',
+
+  //   /**
+  //    * Searchable terms for this entity type
+  //    */
+  //   name: ['Real Estate', 'Property', 'Properties'],
     
-    /**
-     * Cache ID
-     */
-    cid: 'sn_property.json',
-  },
+  //   /**
+  //    * Cache ID
+  //    */
+  //   cid: 'sn_property.json',
+  // },
 
   c21_property: {
     type: 'crawler',
@@ -80,5 +84,19 @@ module.exports = {
     entity_type: 'charity',
     name: ['Charity', 'Charities'],
     cid: 'hon_charity.json'
+  },
+
+  nosara_com_hotels: {
+    type: 'crawler',
+    entity_type: 'hotel',
+    name: ['Hotel', 'Hotels', 'Hostels', 'Hostel'],
+    cid: 'nosara_com_hotels.json'
+  },
+
+  nosara_com_restaurants: {
+    type: 'crawler',
+    entity_type: 'restaurant',
+    name: ['Restaurant', 'Bar', 'Cafe', 'Food', 'Drinks'],
+    cid: 'nosara_com_restaurants.json'
   },
 }
