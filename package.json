@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Auspicus/humansofnosara#readme",
   "dependencies": {
+    "hugo-bin": "^0.30.0",
     "browserify": "^14.4.0",
     "globby": "^6.1.0",
     "gulp": "^3.9.1",
