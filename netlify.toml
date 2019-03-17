@@ -1,5 +1,5 @@
 [build]
-  command = "cd themes/humans-of-nosara && npm run build && cd ../../ && hugo"
+  command = "cd themes/humans-of-nosara && node index && npm run build && cd ../../ && hugo"
   publish = "public"
 
 [context.deploy-preview]
