@@ -18,6 +18,20 @@
   },
   "homepage": "https://github.com/Auspicus/humansofnosara#readme",
   "dependencies": {
-    "hugo-bin": "^0.30.0"
+    "browserify": "^14.4.0",
+    "globby": "^6.1.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "js-search": "^1.4.2",
+    "preact": "^8.4.2",
+    "puppeteer": "^1.13.0",
+    "through2": "^2.0.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
