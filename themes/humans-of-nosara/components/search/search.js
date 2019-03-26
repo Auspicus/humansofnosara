@@ -84,6 +84,12 @@ class Search extends Component {
   }
 
   render() {
+    // 'You could try looking for people, properties or charities.'
+    // 'What are you looking for?'
+    const $search = document.querySelector('#search')
+    const placeholderText = $search.getAttribute('data-placeholder')
+    const suggestionText = $search.getAttribute('data-suggestion')
+
     const results = this.state.query ? this.query(25).map(item => {
       const src = !!item.image
         ? item.image
@@ -131,9 +137,9 @@ class Search extends Component {
       h('div', null, [
         h('div', { className: 'field search__field '}, [
           h('svg', { className: 'search__icon', xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 20 20' }, [ h('path', { d: 'M12.9 14.32a8 8 0 1 1 1.41-1.41l5.35 5.33-1.42 1.42-5.33-5.34zM8 14A6 6 0 1 0 8 2a6 6 0 0 0 0 12z' }) ]),
-          h('input', { value: this.state.query, className: 'field__input', id: 'search', type: 'text', name: 'search', placeholder: 'What are you looking for?', onInput: this.onChange })
+          h('input', { value: this.state.query, className: 'field__input', id: 'search', type: 'text', name: 'search', placeholder: placeholderText, onInput: this.onChange })
         ]),
-        !this.state.query ? h('div', { className: 'search__suggestions' }, 'You could try looking for people, properties or charities.') : null,
+        !this.state.query ? h('div', { className: 'search__suggestions' }, suggestionText) : null,
         h('div', { className: 'search__results' }, results)
       ])
     )

@@ -4,6 +4,14 @@
     "translation": "Read more"
   },
   {
+    "id": "searchSuggestion",
+    "translation": "You could try looking for people, properties or charities."
+  },
+  {
+    "id": "searchPlaceholder",
+    "translation": "What are you looking for?"
+  },
+  {
     "id": "imageBy",
     "translation": "Image by"
   },

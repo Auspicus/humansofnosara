@@ -1,10 +1,10 @@
 <header role="banner" class="navigation">
   <nav class="navigation__nav">
-    <a class="navigation__nav-item" aria-label="Home" href='{{ "/" | relLangURL }}'>
+    <a class="navigation__logo-wrapper" aria-label="Home" href='{{ "/" | relLangURL }}'>
       <img class="navigation__logo" src="/favicon.png" alt="">
     </a>
     <div class="navigation__nav-items">
-      {{ range .Site.Menus.main }}
+      {{ range sort .Site.Menus.main ".Weight" }}
         <a class="navigation__nav-item" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
       {{ range .Translations }}

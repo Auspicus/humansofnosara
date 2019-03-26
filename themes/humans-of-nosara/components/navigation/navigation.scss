@@ -18,6 +18,7 @@
   float: right;
 }
 
+.navigation__logo-wrapper,
 .navigation__nav-item,
 %navigation__nav-item {
   color: $white;
@@ -29,6 +30,12 @@
   @media (min-width: $bp-sm) {
     margin-right: 1rem;
     font-size: 1rem;
+  }
+
+  @media (max-width: $bp-sm) {
+    &:not(.navigation__logo-wrapper):nth-child(2) {
+      display: none;
+    }
   }
 
   &:last-child {
